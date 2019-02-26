@@ -2,10 +2,10 @@
 templateKey: index-page
 header:
   firstLine: Croq'biot
-  recette1: Bio
-  recette2: Locale
-  recette3: Eco-responsable
-  title: Légumes lacto fermentés
+  recette1: BIO
+  recette2: LOCAUX
+  recette3: ECO-RESPONSABLE
+  title: Légumes Lactofermentés
 story:
   cta: Lire notre histoire
   footnote: >-
