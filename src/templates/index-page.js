@@ -48,19 +48,49 @@ export const IndexPageTemplate = ({
       >
         {title}
       </h1>
-      <h3 className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-          style={{
-            boxShadow: 'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em'
-          }}
-      >
-        {subheading}
-      </h3>
-      </div>
-    </div>
+				</div>
+
+				<div className="grid">
+					<div className="col md-7 lg-5 md-push-1 lg-push-2 lg-push-3">
+						<p className="measure">
+							A proper Pão de Queijo is a two-bite business: crunchy on the outside and
+							fluffy on the inside. Made with cassava flour and fresh cheese, it’s a
+							farmer’s take on traditional European bread - without the wheat. Pão de
+							Queijo is a staple snack at most cafes, restaurants and dinner parties
+							across Brazil. It’s cheesily addictive and naturally gluten free.
+						</p>
+						<p className="measure">
+							Try pairing it with a short black coffee São Paulo style, or spread thickly
+							with guava<sup className="-yellow">&#9679;</sup> jam for a sweet contrast.
+						</p>
+
+						<p>
+							<Link to="/story" className="button">
+								Read our story
+							</Link>
+						</p>
+					</div>
+
+					<div className="col md-3 lg-2">
+						<p className="small faded footnote -yellow" data-id="&#9679;">
+							Guava jam is made with guava, a tropical fruit that’s sweet and aromatic.
+							It’s the most popular dip for Pão de Queijo. You can use your favourite
+							english jam as a substitute.
+						</p>
+					</div>
+				</div>
+
+				<div className="grid">
+					<div className="gallery fake-img-group">
+						<div className="col fluid md-7 md-push-1 lg-6 lg-push-2 fake-img-wrapper">
+							<FakeImg className="-three-x-two" img={img2} />
+						</div>
+
+						<div className="col fluid md-3 fake-img-wrapper">
+							<FakeImg className="-two-x-three" img={ritaImg} />
+						</div>
+					</div>
+				</div>
   <section className="section section--gradient">
     <div className="container">
       <div className="section">
