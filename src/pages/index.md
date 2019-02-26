@@ -1,7 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+firstLine: Croq'biot
+title: Légumes lacto fermentés
+recette1: Carrotes.
+recette2: Choux rouges.
+recette3: ''
+story1: 'A proper Pão de Queijo is a two-bite business: crunchy on the outside and
+							fluffy on the inside. Made with cassava flour and fresh cheese, it’s a
+							farmer’s take on traditional European bread - without the wheat. Pão de
+							Queijo is a staple snack at most cafes, restaurants and dinner parties
+              across Brazil. It’s cheesily addictive and naturally gluten free.'
+story2: 'Try pairing it with a short black coffee São Paulo style, or spread thickly
+              with guava<sup className="-yellow">&#9679;</sup> jam for a sweet contrast.'
+footnote: 'Guava jam is made with guava, a tropical fruit that’s sweet and aromatic.
+							It’s the most popular dip for Pão de Queijo. You can use your favourite
+							english jam as a substitute.'
 image: /img/home-jumbotron.jpg
+imageHorizontal: /img/img-2.jpg
+imageVertical: /img/rita.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:

@@ -8,8 +8,16 @@ const IndexPagePreview = ({ entry, getAsset }) => {
 
   return (
     <IndexPageTemplate
-      image={entry.getIn(['data', 'image'])}
+      imageHorizontal={entry.getIn(['data', 'imageHorizontal'])}
+      imageVertical={entry.getIn(['data', 'imageVertical'])}
       title={entry.getIn(['data', 'title'])}
+      firstLine={entry.getIn(['data', 'firstLine'])}
+      recette1={entry.getIn(['data', 'recette1'])}
+      recette2={entry.getIn(['data', 'recette2'])}
+      recette3={entry.getIn(['data', 'recette3'])}
+      story1={entry.getIn(['data', 'story1'])}
+      story2={entry.getIn(['data', 'story2'])}
+      footnote={entry.getIn(['data', 'footnote'])}
       heading={entry.getIn(['data', 'heading'])}
       subheading = {entry.getIn(['data', 'subheading'])}
       description={entry.getIn(['data', 'description'])}
