@@ -2,9 +2,9 @@
 templateKey: index-page
 header:
   firstLine: Croq'biot
-  recette1: Carrotes.
-  recette2: Choux rouges.
-  recette3: ' '
+  recette1: Bio
+  recette2: Locale
+  recette3: Eco-responsable
   title: Légumes lacto fermentés
 story:
   cta: Lire notre histoire
