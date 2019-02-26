@@ -17,7 +17,7 @@ story:
   imageVertical:
     alt: Fondatrice Croq'biot
     img: /img/anais.png
-  story1: "Manger vivant pour un ventre souriant !\n\n\n\nChez Croq'biot, nous nous engageons à produire des aliments vivants pour bien vivre. \r\n\nVéritable source de probiotiques naturelles, nos légumes lactofermentés<sup className=\"-yellow\">&#9679;</sup> participeront au bonheur de votre ventre."
+  story1: "Manger vivant pour un ventre souriant !<br />\n\n\n\nChez Croq'biot, nous nous engageons à produire des aliments vivants pour bien vivre. \r\n\nVéritable source de probiotiques naturelles, nos légumes lactofermentés<sup className=\"-yellow\">&#9679;</sup> participeront au bonheur de votre ventre."
   story2: >-
     Pour soutenir l'économie locale, nous fermentons des légumes biologiques
     provenant de producteurs français locaux.
@@ -29,7 +29,7 @@ findashop:
   footer: It’s pronounced pown-deh-kay-zho.
   heading: Manger vivant
   image:
-    alt: image description
+    alt: Choux rouge Croq'biot
     img: /img/img_4578.png
   subheading: Trouver les legumes Croq'biot
 product:
