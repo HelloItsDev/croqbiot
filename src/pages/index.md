@@ -22,7 +22,7 @@ story:
     Pour soutenir l'économie locale, nous fermentons des légumes biologiques
     provenant de producteurs français locaux.
 findashop:
-  cta: See stockists
+  cta: Voir les magasins
   description: >-
     Achetez nos légumes lactofermentés dans des épiceries et magasins en
     Ile-de-France.
@@ -30,7 +30,7 @@ findashop:
   heading: Manger vivant
   image:
     alt: image description
-    img: /img/img-1.jpg
+    img: /img/img_4578.png
   subheading: Trouver les legumes Croq'biot
 product:
   description: >-
