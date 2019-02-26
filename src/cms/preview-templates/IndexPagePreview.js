@@ -9,11 +9,11 @@ const IndexPagePreview = ({ entry, getAsset }) => {
   return (
     <IndexPageTemplate
       header={{
-        firstLine: entry.getIn(['data', 'heading', 'firstLine']),
-        title: entry.getIn(['data', 'heading', 'title']),
-        recette1: entry.getIn(['data', 'heading', 'recette1']),
-        recette2: entry.getIn(['data', 'heading', 'recette2']),
-        recette3: entry.getIn(['data', 'heading', 'recette3'])
+        firstLine: entry.getIn(['data', 'header', 'firstLine']),
+        title: entry.getIn(['data', 'header', 'title']),
+        recette1: entry.getIn(['data', 'header', 'recette1']),
+        recette2: entry.getIn(['data', 'header', 'recette2']),
+        recette3: entry.getIn(['data', 'header', 'recette3'])
       }}
       story={{
         story1: entry.getIn(['data', 'story', 'story1']),
