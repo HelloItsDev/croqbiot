@@ -8,25 +8,17 @@ header:
   title: Légumes Lactofermentés
 story:
   cta: Lire notre histoire
-  footnote: >-
-    Guava jam is made with guava, a tropical fruit that’s sweet and aromatic.
-    It’s the most popular dip for Pão de Queijo. You can use your favourite
-    english jam as a substitute.
+  footnote: La lactofermentation est
   imageHorizontal:
     alt: image description
     img: /img/img-2.jpg
   imageVertical:
     alt: image description
     img: /img/rita.jpg
-  story1: >-
-    A proper Pão de Queijo is a two-bite business: crunchy on the outside and
-    fluffy on the inside. Made with cassava flour and fresh cheese, it’s a
-    farmer’s take on traditional European bread - without the wheat. Pão de
-    Queijo is a staple snack at most cafes, restaurants and dinner parties
-    across Brazil. It’s cheesily addictive and naturally gluten free.
+  story1: "Manger vivant pour un ventre souriant !\n\nChez Croq'biot, nous nous engageons à produire des aliments vivants pour bien vivre. \r\n\nVéritable source de probiotiques naturelles, nos légumes lactofermentés<sup className=\"-yellow\">&#9679;</sup> participeront au bonheur de votre ventre."
   story2: >-
-    Try pairing it with a short black coffee São Paulo style, or spread thickly
-    with guava<sup className="-yellow">&#9679;</sup> jam for a sweet contrast.
+    Pour soutenir l'économie locale, nous fermentons des légumes biologiques
+    provenant de producteurs français locaux.
 findashop:
   cta: See stockists
   description: Buy our frozen bake-at-home packs from a few shops around London.
