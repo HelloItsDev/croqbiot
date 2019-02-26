@@ -51,7 +51,7 @@ product:
 banner:
   image:
     alt: image description
-    img: /img/banner.jpg
+    img: /img/7274382b-a552-47f3-9a37-368f6ffaa51c.jpg
   mobileImage:
     alt: image description
     img: /img/banner-mobile.jpg
