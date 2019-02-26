@@ -2,31 +2,24 @@
 templateKey: index-page
 header:
   firstLine: Croq'biot
-  recette1: BIO
+  recette1: Bio
   recette2: Locaux
   recette3: Eco-responsables
-  title: Légumes Lactofermentés
+  title: Légumes Vivants
 story:
   cta: Lire notre histoire
   footnote: >-
-    La lactofermentation est est une méthode de conservation créant des aliments
-    vivants.
+    La lactofermentation est une méthode ancestrale de transformation des
+    aliments. Elle consiste à convertir les sucres, contenus dans les légumes,
+    en acide lactique. C’est cette acidification qui donne aux légumes un goût
+    frais et acidulé.
   imageHorizontal:
     alt: Navets lactofermentes Croq'biot
     img: /img/chopping-board-food-fresh-1323646.jpg
   imageVertical:
     alt: Fondatrice Croq'biot
     img: /img/anais.png
-  story1: >-
-    Manger vivant pour un ventre souriant !<br />
-
-
-    Chez Croq'biot, nous nous engageons à produire des aliments vivants pour
-    bien vivre. 
-
-
-    Véritable source de probiotiques naturelles, nos légumes lactofermentés<sup
-    className="-yellow">&#9679;</sup> participeront au bonheur de votre ventre.
+  story1: "Manger vivant pour un ventre souriant !`<br />`\n\nChez Croq'biot, nous nous engageons à produire des aliments vivants pour bien vivre. \r\n\nVéritable source de probiotiques naturelles, nos légumes lactofermentés`<sup className=\"-yellow\">&#9679;</sup>` participeront au bonheur de votre ventre."
   story2: >-
     Pour soutenir l'économie locale, nous fermentons des légumes biologiques
     provenant de producteurs français locaux.
