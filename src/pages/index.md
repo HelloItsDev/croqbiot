@@ -11,7 +11,7 @@ story:
   footnote: La lactofermentation est
   imageHorizontal:
     alt: Choux rouge lactofermentes Croq'biot
-    img: /img/chou-rouge-bienfaits.jpg
+    img: /img/chopping-board-food-fresh-1323646.jpg
   imageVertical:
     alt: image description
     img: /img/rita.jpg
