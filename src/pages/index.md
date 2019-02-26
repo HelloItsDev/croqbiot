@@ -8,7 +8,9 @@ header:
   title: Légumes Lactofermentés
 story:
   cta: Lire notre histoire
-  footnote: La lactofermentation est
+  footnote: >-
+    La lactofermentation est est une méthode de conservation créant des aliments
+    vivants.
   imageHorizontal:
     alt: Navets lactofermentes Croq'biot
     img: /img/chopping-board-food-fresh-1323646.jpg
@@ -21,13 +23,15 @@ story:
     provenant de producteurs français locaux.
 findashop:
   cta: See stockists
-  description: Buy our frozen bake-at-home packs from a few shops around London.
+  description: >-
+    Achetez nos légumes lactofermentés dans des épiceries et magasins en
+    Ile-de-France.
   footer: It’s pronounced pown-deh-kay-zho.
-  heading: Eat it
+  heading: Manger vivant
   image:
     alt: image description
     img: /img/img-1.jpg
-  subheading: Find a shop
+  subheading: Trouver les legumes Croq'biot
 product:
   description: >-
     If you'd like to read more about our closure, <a
