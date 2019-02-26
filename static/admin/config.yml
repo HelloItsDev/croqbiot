@@ -6,6 +6,19 @@ media_folder: static/img
 public_folder: /img
 
 collections:
+  
+  - name: "landing page"
+    file: "src/pages/index.md"
+    label: "Landing Page"
+    name: "Index Page"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
@@ -28,10 +41,10 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Heading, name: header, widget: object, fields: [{label: Marque, name: firstline, widget: string},{label: Title, name: title, widget: string},{label: Typewritter1, name: recette1, widget: string},{label: Typewritter2, name: recette2, widget: string},{label: Typewritter3, name: recette3, widget: string}]}
-          - {label: Story, name: story, widget: object, fields: [{label: Story1, name: story1, widget: string},{label: Story2, name: story2, widget: string}, {label: CTA, name: cta, widget: string},{label: Footnote, name: footnote, widget: string},{label: imageHorizontal, name: imageHorizontal, widget: image},{label: imageVertical, name: imageVertical, widget: image}]}
-          - {label: Find a Shop, name: findashop, widget: object, fields: [{label: Heading, name: heading, widget: string},{label: Subheading, name: subheading, widget: string},{label: Description, name: description, widget: string}, {label: CTA, name: cta, widget: string},{label: Image, name: image, widget: image},{label: Footer, name: footer, widget: string}]}
-          - {label: Product Info, name: product, widget: object, fields: [{label: Image, name: image, widget: image},{label: Title, name: title, widget: string}, {label: Subtitle, name: subtitle, widget: string}, {label: Description, name: description, widget: string}, {label: Status, name: status, widget: string}, {label: Message, name: message, widget: string}]}
-          - {label: Banner, name: banner, widget: object, fields: [{label: computer Image, name: image, widget: image}, {label: phone Image, name: mobileImage, widget: image}]}
+          - {label: Story, name: story, widget: object, fields: [{label: Story1, name: story1, widget: string},{label: Story2, name: story2, widget: string}, {label: CTA, name: cta, widget: string},{label: Footnote, name: footnote, widget: string},{label: imageHorizontal, name: imageHorizontal, widget: object, fields: [{label: Image, name: img, widget: image}, {label: Alt, name: alt, widget: string}]},{label: imageVertical, name: imageVertical, widget:  object, fields: [{label: Image, name: img, widget: image}, {label: Alt, name: alt, widget: string}]}]}
+          - {label: Find a Shop, name: findashop, widget: object, fields: [{label: Heading, name: heading, widget: string},{label: Subheading, name: subheading, widget: string},{label: Description, name: description, widget: string}, {label: CTA, name: cta, widget: string},{label: Image, name: image, widget: object, fields: [{label: Image, name: img, widget: image}, {label: Alt, name: alt, widget: string}]},{label: Footer, name: footer, widget: string}]}
+          - {label: Product Info, name: product, widget: object, fields: [{label: Image, name: image, widget:  object, fields: [{label: Image, name: img, widget: image}, {label: Alt, name: alt, widget: string}]},{label: Title, name: title, widget: string}, {label: Subtitle, name: subtitle, widget: string}, {label: Description, name: description, widget: string}, {label: Status, name: status, widget: string}, {label: Message, name: message, widget: string}]}
+          - {label: Banner, name: banner, widget: object, fields: [{label: computer Image, name: image, widget:  object, fields: [{label: Image, name: img, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: phone Image, name: mobileImage, widget:  object, fields: [{label: Image, name: img, widget: image}, {label: Alt, name: alt, widget: string}]}]}
           - {label: Testimonial, name: testimonial, widget: object, fields: [{label: Citation, name: quote, widget: string},{label: De, name: from, widget: string}]}
           - {label: contact, name: contact, widget: object, fields: [ {label: heading, name: heading, widget: string},{label: subheading, name: subheading, widget: string}, {label: mail, name: mail, widget: string},{label: instagram, name: instagram, widget: string},{label: facebook, name: facebook, widget: string}]}
       - file: "src/pages/about/index.md"
