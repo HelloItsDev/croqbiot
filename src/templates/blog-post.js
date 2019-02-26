@@ -19,12 +19,11 @@ export const BlogPostTemplate = ({
   return (
     <section className="section">
       {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
+      <div className="grid">
+          <h1 className="col -block md-push-1 lg-push-2 title">
+            {title}
+          </h1>
+          <div className="content grid" >
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -40,7 +39,6 @@ export const BlogPostTemplate = ({
               </div>
             ) : null}
           </div>
-        </div>
       </div>
     </section>
   )
