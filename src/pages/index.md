@@ -15,7 +15,7 @@ story:
   imageVertical:
     alt: image description
     img: /img/rita.jpg
-  story1: "Manger vivant pour un ventre souriant !\n\nChez Croq'biot, nous nous engageons à produire des aliments vivants pour bien vivre. \r\n\nVéritable source de probiotiques naturelles, nos légumes lactofermentés<sup className=\"-yellow\">&#9679;</sup> participeront au bonheur de votre ventre."
+  story1: "Manger vivant pour un ventre souriant !\n\n\n\nChez Croq'biot, nous nous engageons à produire des aliments vivants pour bien vivre. \r\n\nVéritable source de probiotiques naturelles, nos légumes lactofermentés<sup className=\"-yellow\">&#9679;</sup> participeront au bonheur de votre ventre."
   story2: >-
     Pour soutenir l'économie locale, nous fermentons des légumes biologiques
     provenant de producteurs français locaux.
