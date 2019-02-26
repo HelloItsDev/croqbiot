@@ -10,7 +10,7 @@ story:
   cta: Lire notre histoire
   footnote: La lactofermentation est
   imageHorizontal:
-    alt: Choux rouge lactofermentes Croq'biot
+    alt: Navets lactofermentes Croq'biot
     img: /img/chopping-board-food-fresh-1323646.jpg
   imageVertical:
     alt: image description
