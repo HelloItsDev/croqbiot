@@ -13,8 +13,8 @@ story:
     alt: Navets lactofermentes Croq'biot
     img: /img/chopping-board-food-fresh-1323646.jpg
   imageVertical:
-    alt: image description
-    img: /img/rita.jpg
+    alt: Fondatrice Croq'biot
+    img: /img/anais.png
   story1: "Manger vivant pour un ventre souriant !\n\n\n\nChez Croq'biot, nous nous engageons à produire des aliments vivants pour bien vivre. \r\n\nVéritable source de probiotiques naturelles, nos légumes lactofermentés<sup className=\"-yellow\">&#9679;</sup> participeront au bonheur de votre ventre."
   story2: >-
     Pour soutenir l'économie locale, nous fermentons des légumes biologiques
