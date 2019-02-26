@@ -11,7 +11,7 @@ story:
   footnote: La lactofermentation est
   imageHorizontal:
     alt: image description
-    img: /img/img-2.jpg
+    img: /img/chou-rouge-bienfaits.jpg
   imageVertical:
     alt: image description
     img: /img/rita.jpg
