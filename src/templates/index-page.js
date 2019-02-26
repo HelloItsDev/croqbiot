@@ -3,48 +3,35 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
-
 import { Section } from '../components/Section/Section';
 import { Contact } from '../components/Contact/Contact';
 import { Typewriter } from '../components/Typewriter/Typewriter';
 import { Banner } from '../components/Banner/Banner';
 import { FakeImg } from '../components/FakeImg/FakeImg';
-import { Product } from '../components/Product/Product';
+import Product  from '../components/Product/Product';
 
-import img1 from '../img/img-1.jpg';
-import bannerImg from '../img/banner.jpg';
-import bannerMobileImg from '../img/banner-mobile.jpg';
+
+
 
 export const IndexPageTemplate = ({
-  firstLine,
-  imageHorizontal,
-  imageVertical,
-  title,
-  recette1,
-  recette2,
-  recette3,
-  story1,
-  story2,
-  footnote,
-  heading,
-  subheading,
-  mainpitch,
-  description,
-  intro,
-  main,
+  header,
+  story,
+  findashop,
+  product,
+  banner,
+  testimonial,
+  contact
 }) => (
     <div className="main">
     <Section>
     <div className="grid">
 					<h1 className="col -block md-push-1 lg-push-2 title">
-						{firstLine}
+						{header.firstLine}
 						<br />
-						{title}
+						{header.title}
 						<Typewriter
 							className="title-desc"
-							texts={[recette1, recette2, recette3]}
+							texts={[header.recette1, header.recette2, header.recette3]}
 						/>
 					</h1>
 				</div>
@@ -52,22 +39,22 @@ export const IndexPageTemplate = ({
 				<div className="grid">
 					<div className="col md-7 lg-5 md-push-1 lg-push-2 lg-push-3">
 						<p className="measure">
-							{story1}
+							{story.story1}
 						</p>
 						<p className="measure">
-              {story2}
+              {story.story2}
 						</p>
 
 						<p>
 							<Link to="/story" className="button">
-								Lire notre histoire
+								{story.cta}
 							</Link>
 						</p>
 					</div>
 				
 					<div className="col md-3 lg-2">
 						<p className="small faded footnote -yellow" data-id="&#9679;">
-							{footnote}
+							{story.footnote}
 						</p>
 					</div>
 				</div>
@@ -77,17 +64,17 @@ export const IndexPageTemplate = ({
 						<div className="col fluid md-7 md-push-1 lg-6 lg-push-2 fake-img-wrapper">
               <FakeImg className="-three-x-two" 
               img={
-                !!imageHorizontal.childImageSharp
-                ? imageHorizontal.childImageSharp.fluid.src
-                : imageHorizontal
+                !!story.imageHorizontal.img.childImageSharp
+                ? story.imageHorizontal.img.childImageSharp.fluid.src
+                : story.imageHorizontal.img
                 } />
 						</div>
 
 						<div className="col fluid md-3 fake-img-wrapper">
 							<FakeImg className="-two-x-three" img={
-                !!imageVertical.childImageSharp
-                ? imageVertical.childImageSharp.fluid.src
-                : imageVertical
+                !!story.imageVertical.img.childImageSharp
+                ? story.imageVertical.img.childImageSharp.fluid.src
+                : story.imageVertical.img
                 } />
 						</div>
 					</div>
@@ -96,18 +83,18 @@ export const IndexPageTemplate = ({
 
       <Section className="-salmon">
 				<div className="grid">
-					<h1 className="col md-push-1 lg-push-2">Eat it</h1>
+					<h1 className="col md-push-1 lg-push-2">{findashop.heading}</h1>
 				</div>
 
 				<div className="grid">
 					<div className="col md-7 lg-5 md-push-1 lg-push-3">
-						<h3 className="measure-wider">Find a shop</h3>
+						<h3 className="measure-wider">{findashop.subheading}</h3>
 						<p className="measure-wider">
-							Buy our frozen bake-at-home packs from a few shops around London.
+							{findashop.description}
 						</p>
 						<p className="measure-wider">
 							<Link to="/stockists" className="button">
-								See stockists
+								{findashop.cta}
 							</Link>
 						</p>
 					</div>
@@ -115,59 +102,62 @@ export const IndexPageTemplate = ({
 
 				<div className="grid">
 					<div className="col fluid md-7 md-push-1 lg-6 lg-push-2">
-						<FakeImg className="-three-x-two" img={img1} />
+						<FakeImg className="-three-x-two" img={
+                !!findashop.image.img.childImageSharp
+                ? findashop.image.img.childImageSharp.fluid.src
+                : findashop.image.img
+                } />
 					</div>
 				</div>
 
 				<div className="grid">
 					<div className="col md-7 lg-5 md-push-1 lg-push-2">
-						<h2 className="h1">It’s pronounced pown-deh-kay-zho.</h2>
+						<h2 className="h1"> {findashop.footer} </h2>
 					</div>
 				</div>
 			</Section>
 
       <Product
-				soldout
+        soldout
+        {...product}
 			/>
 
-      <Banner img={bannerImg} mobileImg={bannerMobileImg} />
+      <Banner img={
+                !!banner.image.img.childImageSharp
+                ? banner.image.img.childImageSharp.fluid.src
+                : banner.image.img
+                } 
+                mobileImg={
+                  !!banner.mobileImage.img.childImageSharp
+                  ? banner.mobileImage.img.childImageSharp.fluid.src
+                  : banner.mobileImage.img
+                  } />
 
       <Section className="-salmon testimonial">
         <div className="grid">
           <blockquote className="col md-9 md-push-1 lg-push-2">
             <h3 className="h1">
-              A crunchy outside giving way to a cloud-like interior. Sounds ace, right?
-              Right.
+              {testimonial.quote}
             </h3>
-            <p>Tom Howells – TimeOut London</p>
+            <p>{testimonial.from}</p>
           </blockquote>
         </div>
       </Section>
 
       <Section>
-        <Contact />
+        <Contact {...contact} />
       </Section>
   </div>
 )
 
 IndexPageTemplate.propTypes = {
-  firstLine: PropTypes.string,
-  imageHorizontal: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  imageVertical: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
-  recette1: PropTypes.string,
-  recette2: PropTypes.string,
-  recette3: PropTypes.string,
-  story1: PropTypes.string,
-  story2: PropTypes.string,
-  footnote: PropTypes.string,
-  heading: PropTypes.string,
-  subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
+  header: PropTypes.object,
+  story: PropTypes.object,
+  findashop: PropTypes.object,
+  product: PropTypes.object,
+  banner: PropTypes.object,
+  testimonial: PropTypes.object,
+  contact: PropTypes.object
 }
 
 const IndexPage = ({ data }) => {
@@ -176,21 +166,13 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        title={frontmatter.title}
-        firstLine={frontmatter.firstLine}
-        recette1={frontmatter.recette1}
-        recette2={frontmatter.recette2}
-        recette3={frontmatter.recette3}
-        story1={frontmatter.story1}
-        story2={frontmatter.story2}
-        footnote={frontmatter.footnote}
-        imageHorizontal={frontmatter.imageHorizontal}
-        imageVertical={frontmatter.imageVertical}
-        heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
+        header={frontmatter.header}
+        story={frontmatter.story}
+        findashop={frontmatter.findashop}
+        product={frontmatter.product}
+        banner={frontmatter.banner}
+        testimonial={frontmatter.testimonial}
+        contact={frontmatter.contact}
       />
     </Layout>
   )
@@ -210,56 +192,107 @@ export const pageQuery = graphql`
 query IndexPageTemplate {
   markdownRemark(frontmatter: {templateKey: {eq: "index-page"}}) {
       frontmatter {
-        title
-        firstLine
-        recette1
-        recette2
-        recette3
-        story1
-        story2
-        footnote
-        image {
-          childImageSharp {
-            fluid(maxHeight: 420, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-        imageHorizontal {
-          childImageSharp {
-            fluid(maxHeight: 420, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-        imageVertical {
-          childImageSharp {
-            fluid(maxHeight: 420, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-        heading
-        subheading
-        mainpitch {
+        header {
           title
-          description
+          firstLine
+          recette1
+          recette2
+          recette3
         }
-        description
-        intro {
-          blurbs {
-            image {
+        story {
+          story1
+          story2
+          footnote
+          cta
+          imageHorizontal {
+            img {
               childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
+                fluid(maxHeight: 420, quality: 100) {
                   ...GatsbyImageSharpFluid
                 }
               }
             }
-            text
+            alt            
           }
-          heading
-          description
+          imageVertical {
+            img {
+              childImageSharp {
+                fluid(maxHeight: 420, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            alt
+          }
         }
+        findashop {
+          heading
+          subheading
+          description
+          cta
+          image {
+            img {
+              childImageSharp {
+                fluid(maxWidth: 625, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            } 
+            alt
+            
+          }
+          footer
+        }
+        product {
+          image {
+            img {
+              childImageSharp {
+                fluid(maxHeight: 500, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            } 
+            alt            
+          }
+          title
+          subTitle
+          status
+          description
+          message
+        }
+        banner {
+          image {
+            img {
+              childImageSharp {
+                fluid(maxHeight: 800, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            } 
+            alt
+          }
+          mobileImage {
+            img {
+              childImageSharp {
+                fluid(maxHeight: 490, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            } 
+            alt            
+          }
+        }
+        testimonial {
+          quote,
+          from
+        }
+        contact {
+          heading
+          subheading
+          mail
+          instagram
+          facebook
+        }        
       }
     }
   }
