@@ -18,11 +18,9 @@ const Product = (props) => (
 					{props.soldout && (
 						<div>
 							<h3 className="color-salmon1 yellow"> {props.status} </h3>
-							<p>
-								{props.description}
+							<p dangerouslySetInnerHTML={{ __html: props.description}}>
 							</p>
-							<p className="postcode-message">
-								{props.message}
+							<p className="postcode-message" dangerouslySetInnerHTML={{ __html: props.message}}>
 							</p>
 						</div>
 					)}

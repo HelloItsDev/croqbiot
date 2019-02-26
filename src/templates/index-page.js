@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {Fragment} from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
@@ -38,12 +38,9 @@ export const IndexPageTemplate = ({
 
 				<div className="grid">
 					<div className="col md-7 lg-5 md-push-1 lg-push-2 lg-push-3">
-						<p className="measure">
-							{story.story1}
+						<p className="measure" dangerouslySetInnerHTML={{ __html: story.story1 }}>							
 						</p>
-						<p className="measure">
-              {story.story2}
-						</p>
+						<p className="measure" dangerouslySetInnerHTML={{ __html: story.story2 }}></p>
 
 						<p>
 							<Link to="/story" className="button">
