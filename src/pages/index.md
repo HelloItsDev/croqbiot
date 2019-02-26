@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 header:
-  firstLine: Croq'biott
+  firstLine: Croq'biot
   recette1: Carrotes.
   recette2: Choux rouges.
   recette3: ' '
