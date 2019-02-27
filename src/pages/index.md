@@ -30,16 +30,17 @@ story:
     bien vivre. 
 
 
-    Véritable source de probiotiques naturelles, nos légumes lactofermentés<sup
-    className="-yellow">&#9679;</sup> participeront au bonheur de votre ventre.
+    Véritable source de probiotiques naturelles, nos recettes de légumes
+    lactofermentés<sup className="-yellow">&#9679;</sup> participeront au
+    bonheur de votre ventre et de vos papilles.
   story2: >-
-    Pour soutenir l'économie locale, nous fermentons des légumes biologiques
-    provenant de producteurs français locaux.
+    Dans une démarche éco-responsable, nous fermentons exclusivement des légumes
+    100% biologiques provenant de producteurs français locaux.
 findashop:
   cta: Voir les magasins
   description: >-
-    Achetez nos légumes lactofermentés dans des épiceries et magasins en
-    Ile-de-France.
+    Achetez nos légumes lactofermentés dans des épiceries et magasins
+    d'Ile-de-France.
   footer: It’s pronounced pown-deh-kay-zho.
   heading: Manger vivant
   image:
@@ -71,7 +72,7 @@ banner:
     img: /img/agriculture-carrots-dirty-1268101.jpg
 testimonial:
   from: David Rains Wallace
-  quote: La fermentation était peut-être une meilleure invention que le feu.
+  quote: La fermentation est peut-être une meilleure invention que le feu.
 contact:
   facebook: 'https://facebook.com/croqbiot'
   heading: Nous contacter
