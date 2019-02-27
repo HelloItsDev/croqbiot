@@ -67,10 +67,8 @@ banner:
     alt: carottes francaises et bio
     img: /img/agriculture-carrots-dirty-1268101.jpg
 testimonial:
-  from: Tom Howells – TimeOut London
-  quote: >-
-    A crunchy outside giving way to a cloud-like interior. Sounds ace, right?
-    Right.
+  from: David Rains Wallace
+  quote: La fermentation était peut-être une meilleure invention que le feu.
 contact:
   facebook: 'https://facebook.com/croqbiot'
   heading: Nous contacter
