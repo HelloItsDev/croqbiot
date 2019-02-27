@@ -55,7 +55,7 @@ product:
     </a> .
   image:
     alt: image description
-    img: /img/product.png
+    img: /img/pot.png
   message: Nous ne livrons que sur Paris et sa proche banlieue pour le moment.
   status: DISPONIBLE
   subTitle: '370 g – 4,50 €'
