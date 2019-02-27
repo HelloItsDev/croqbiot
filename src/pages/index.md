@@ -61,21 +61,21 @@ product:
   title: Bake-at-home frozen pack.
 banner:
   image:
-    alt: image description
-    img: /img/7274382b-a552-47f3-9a37-368f6ffaa51c.jpg
+    alt: carottes francaises et bio
+    img: /img/agriculture-carrots-dirty-1268101.jpg
   mobileImage:
-    alt: image description
-    img: /img/banner-mobile.jpg
+    alt: carottes francaises et bio
+    img: /img/agriculture-carrots-dirty-1268101.jpg
 testimonial:
   from: Tom Howells – TimeOut London
   quote: >-
     A crunchy outside giving way to a cloud-like interior. Sounds ace, right?
     Right.
 contact:
-  facebook: 'https://facebook.com/OiDonaRita'
-  heading: Contact us
-  instagram: 'https://instagram.com/OiDonaRita'
-  mail: oi@donarita.co.uk
-  subheading: drop us a line at
+  facebook: 'https://facebook.com/croqbiot'
+  heading: Nous contacter
+  instagram: 'https://instagram.com/croqbiot'
+  mail: croqbiot@gmail.com
+  subheading: 'Venez nous écrire à '
 ---
 
