@@ -46,7 +46,7 @@ findashop:
   image:
     alt: Choux rouge Croq'biot
     img: /img/shutterstock_346508717_bocaux_chou_rouge_lactofermente.jpg
-  subheading: Trouver les legumes Croq'biot
+  subheading: Trouver nos legumes Croq'biot
 product:
   description: >-
     If you'd like to read more about our closure, <a
@@ -60,9 +60,9 @@ product:
     If you really need some Pao de Queijo in your life, Rita might be able to
     offer a catering option. You can contact her at  <a
     href="mailto:ritaduarte@hotmail.co.uk">ritaduarte@hotmail.co.uk</a>.
-  status: CLOSED.
-  subTitle: 15 cheesy balls – £5.
-  title: Bake-at-home frozen pack.
+  status: DISPONIBLE
+  subTitle: '370 g – 4,50 €'
+  title: Légumes lactofermentés Carottes Gingembre Curcumin
 banner:
   image:
     alt: carottes francaises et bio
@@ -78,6 +78,6 @@ contact:
   heading: Nous contacter
   instagram: 'https://instagram.com/croqbiot'
   mail: croqbiot@gmail.com
-  subheading: 'Venez nous écrire à '
+  subheading: Ecrivez-nous à
 ---
 
