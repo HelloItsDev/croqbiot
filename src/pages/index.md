@@ -59,7 +59,7 @@ product:
   message: Nous ne livrons que sur Paris et sa proche banlieue pour le moment.
   status: DISPONIBLE
   subTitle: '370 g – 4,50 €'
-  title: Légumes lactofermentés Carottes Gingembre Curcumin
+  title: Carottes Gingembre Curcuma lactofermentés
 banner:
   image:
     alt: carottes francaises et bio
