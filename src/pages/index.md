@@ -44,7 +44,7 @@ findashop:
   heading: Manger vivant
   image:
     alt: Choux rouge Croq'biot
-    img: /img/img_4578.png
+    img: /img/shutterstock_346508717_bocaux_chou_rouge_lactofermente.jpg
   subheading: Trouver les legumes Croq'biot
 product:
   description: >-
