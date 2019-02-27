@@ -56,10 +56,7 @@ product:
   image:
     alt: image description
     img: /img/product.png
-  message: >-
-    If you really need some Pao de Queijo in your life, Rita might be able to
-    offer a catering option. You can contact her at  <a
-    href="mailto:ritaduarte@hotmail.co.uk">ritaduarte@hotmail.co.uk</a>.
+  message: Nous ne livrons que sur Paris et sa proche banlieue pour le moment.
   status: DISPONIBLE
   subTitle: '370 g – 4,50 €'
   title: Légumes lactofermentés Carottes Gingembre Curcumin
