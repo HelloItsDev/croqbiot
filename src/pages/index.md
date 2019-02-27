@@ -23,6 +23,9 @@ story:
     Manger vivant pour un ventre souriant !<br />
 
 
+    <br />
+
+
     Chez Croq'biot, nous nous engageons à produire des aliments vivants pour
     bien vivre. 
 
