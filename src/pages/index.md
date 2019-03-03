@@ -15,7 +15,7 @@ story:
     frais et acidulé.
   imageHorizontal:
     alt: Navets lactofermentes Croq'biot
-    img: /img/img_0364.png
+    img: /img/img_0353.png
   imageVertical:
     alt: Fondatrice Croq'biot
     img: /img/img_0413.png
