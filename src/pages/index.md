@@ -15,10 +15,10 @@ story:
     frais et acidulé.
   imageHorizontal:
     alt: Navets lactofermentes Croq'biot
-    img: /img/chopping-board-food-fresh-1323646.jpg
+    img: /img/img_0364.png
   imageVertical:
     alt: Fondatrice Croq'biot
-    img: /img/anais.png
+    img: /img/img_0413.png
   story1: >-
     Manger vivant pour un ventre souriant !<br />
 
