@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
+import { FakeImg } from '../components/FakeImg/FakeImg';
 
 class BlogRoll extends React.Component {
 
@@ -10,31 +11,36 @@ class BlogRoll extends React.Component {
     
     return (
       <div className="grid">
-        <div className="col md-7 lg-5 md-push-1 lg-push-3">
+        <div className="col ">
         {posts && (posts
             .map(({ node: post }) => (
-              <div
-                className=""
-                key={post.id}
-              >
-              <article className="tile is-child box notification">
-                <p>
-                  <Link className="title has-text-primary is-size-4" to={post.fields.slug}>
-                    {post.frontmatter.title}
-                  </Link>
-                  <span> &bull; </span>
-                  <span className="subtitle is-size-5 is-block">{post.frontmatter.date}</span>
-                </p>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                </p>
-                </article>
-              </div>
+              
+              <Link className="article" to={post.fields.slug} key={post.id}>
+                <FakeImg className="-three-x-two" 
+                  indexable
+                  alt={post.frontmatter.BlogImage.alt}
+                  img={
+                    !!post.frontmatter.BlogImage.img.childImageSharp
+                    ? post.frontmatter.BlogImage.img.childImageSharp.fluid.src
+                    : post.frontmatter.BlogImage.img
+                    } />
+                <div className="info">
+                  <h2>{post.frontmatter.title}</h2>
+                  <p>            
+                    <span> &bull; </span>
+                    <span className="subtitle is-size-5 is-block">{post.frontmatter.date}</span>
+                    <span> &bull; </span>
+                    <span className="subtitle is-size-5 is-block">{post.frontmatter.readingTime} de lecture.</span>
+                  </p>
+                  <p>
+                    {post.frontmatter.description}
+                    <Link  to={post.fields.slug}>
+                      Keep Reading →
+                    </Link>
+                  </p>                
+                </div>
+                
+              </Link>
             )))}
             </div>
           </div>
@@ -67,6 +73,18 @@ export default () => (
             }
             frontmatter {
               title
+              readingTime
+              description
+              BlogImage {
+                img {
+                  childImageSharp {
+                    fluid(maxHeight: 200, quality: 80) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+                }
+                alt
+              }
               templateKey
               date(formatString: "MMMM DD, YYYY")
             }

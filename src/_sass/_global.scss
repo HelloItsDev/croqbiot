@@ -496,7 +496,7 @@ img {
 	line-height: 32px;
 }
 
-//BLOGROLL
+//BLOG
 
 .content{
 	p,h2,ol,ul,h4 {
@@ -510,6 +510,25 @@ img {
 			margin-bottom: 40px;
 			width: 58.33333%;
 			margin-left: 8.33333%;
+		}
+	}
+}
+
+//BlogRoll
+
+.main{
+	.col{
+		.article{
+			display: flex;
+			justify-content:space-between;
+			align-items: center;
+			img{
+				max-width: 250px;
+
+			}
+			.info{
+				max-width: 50%;
+			}
 		}
 	}
 }

@@ -11,7 +11,7 @@ export default class BlogIndexPage extends React.Component {
           <div className="main">
             <div className="grid">
                 <h1 className="col -block md-push-1 lg-push-1 title" >
-                  Nos derniers Articles <br />
+                  Nos derniers articles <br />
                   <span className="salmon" >À dévorer. </span>
                 </h1>
             </div>

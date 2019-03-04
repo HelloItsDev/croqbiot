@@ -8,7 +8,10 @@ const Product = (props) => (
 							!!props.image.img.childImageSharp
 							? props.image.img.childImageSharp.fluid.src
 							: props.image.img
-							} />
+							}
+						 alt={props.image.alt} 
+						 />
+					
 				</div>
 
 				<div className="col fluid md-6 lg-5">
