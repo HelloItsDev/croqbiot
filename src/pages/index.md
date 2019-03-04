@@ -20,19 +20,13 @@ story:
     alt: Fondatrice Croq'biot
     img: /img/img_0413v2.jpg
   story1: >-
-    Manger vivant pour un ventre souriant !<br />
-
-
-    <br />
-
-
     Chez Croq'biot, nous nous engageons à produire des aliments vivants pour
     bien vivre. 
 
 
     Véritable source de probiotiques naturelles, nos recettes de légumes
-    lactofermentés<sup className="-yellow">&#9679;</sup> participeront au
-    bonheur de votre ventre et de vos papilles.
+    lactofermentés<sup className="-yellow">&#9679;</sup> naturellement
+    participeront au bonheur de votre ventre et de vos papilles.
   story2: >-
     Dans une démarche éco-responsable, nous fermentons exclusivement des légumes
     100% biologiques provenant de producteurs français locaux.
@@ -41,7 +35,7 @@ findashop:
   description: >-
     Achetez nos légumes lactofermentés dans des épiceries et magasins
     d'Ile-de-France.
-  footer: It’s pronounced pown-deh-kay-zho.
+  footer: Manger vivant pour un ventre souriant.
   heading: Manger vivant
   image:
     alt: Choux rouge Croq'biot
