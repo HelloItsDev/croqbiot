@@ -14,11 +14,11 @@ story:
     en acide lactique. C’est cette acidification qui donne aux légumes un goût
     frais et acidulé.
   imageHorizontal:
-    alt: Navets lactofermentes Croq'biot
+    alt: Legumes biologiques et locaux Croq'biot
     img: /img/img_0364v2.jpg
   imageVertical:
     alt: Fondatrice Croq'biot
-    img: /img/img_0413.png
+    img: /img/img_0413v2.jpg
   story1: >-
     Manger vivant pour un ventre souriant !<br />
 
