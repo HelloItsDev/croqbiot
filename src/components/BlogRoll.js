@@ -11,7 +11,7 @@ class BlogRoll extends React.Component {
     
     return (
       <div className="grid">
-        <div className="col ">
+        <div className="col md-10 md-push-1 lg-push-1">
         {posts && (posts
             .map(({ node: post }) => (
               
@@ -26,18 +26,15 @@ class BlogRoll extends React.Component {
                     } />
                 <div className="info">
                   <h2>{post.frontmatter.title}</h2>
+                  <p className="description" >
+                    {post.frontmatter.description}
+                  </p>  
                   <p>            
-                    <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">{post.frontmatter.date}</span>
                     <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">{post.frontmatter.readingTime} de lecture.</span>
                   </p>
-                  <p>
-                    {post.frontmatter.description}
-                    <Link  to={post.fields.slug}>
-                      Keep Reading →
-                    </Link>
-                  </p>                
+                                
                 </div>
                 
               </Link>
@@ -86,7 +83,7 @@ export default () => (
                 alt
               }
               templateKey
-              date(formatString: "MMMM DD, YYYY")
+              date(formatString: "DD MMMM, YYYY", locale: "fr")
             }
           }
         }

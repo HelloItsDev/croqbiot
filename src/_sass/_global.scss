@@ -520,14 +520,44 @@ img {
 	.col{
 		.article{
 			display: flex;
-			justify-content:space-between;
-			align-items: center;
+			align-items: flex-start;
+			text-decoration: unset;
+			margin-bottom: 40px;
+			h2,p {
+				margin-top: 0px;
+				margin-bottom: 10px;
+			}
+			.description{
+				font-size: 16px;
+				color: #0000008a;
+				line-height: 24px;
+			}
 			img{
 				max-width: 250px;
 
 			}
 			.info{
-				max-width: 50%;
+				margin-left: 20px;
+			}
+			@media (max-width: 800px) {
+				h2,p {
+					margin-top: 0px;
+					margin-bottom: 5px;
+					line-height: 24px;
+				}
+				p{
+					color: #0000008a;
+					font-size: 13px;
+				}
+				img{
+					max-width: 90px;	
+				}
+				.description{
+					display: none;
+				}
+				.info{
+					margin-left: 10px;
+				}
 			}
 		}
 	}
