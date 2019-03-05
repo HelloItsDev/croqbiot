@@ -18,7 +18,6 @@ export const StoryPageTemplate = ({
   stories,
 }) => (
     <div className="main">
-      <Section>
         <div className="grid">
           <h1 className="col -block md-push-1 lg-push-2 title">
             {storyHeader.title1}
@@ -38,7 +37,6 @@ export const StoryPageTemplate = ({
               : storyHeader.banner.mobileImage.img
               } />
         )}
-			</Section>
 
       <Section>
         {stories.map((story) => (
