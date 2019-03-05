@@ -15,7 +15,7 @@ story:
     frais et acidulé.
   imageHorizontal:
     alt: Legumes biologiques et locaux Croq'biot
-    img: /img/carotte-bois-retouchée-sur-fond-transparent.png
+    img: /img/carotte-bois-retouchée.png
   imageVertical:
     alt: Fondatrice Croq'biot
     img: /img/img_0413v2.jpg
