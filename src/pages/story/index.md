@@ -1,10 +1,10 @@
 ---
 templateKey: story-page
-StoryHeader:
-  title1: Croq'biot
-  title2: Légumes Vivants
+storyHeader:
+  title1: Voici notre histoire,
+  title2: une histoire de bidon!
   banner:
-    actif: false
+    actif: true
     image: 
       alt: carottes francaises et bio
       img: /img/agriculture-carrots-dirty-1268101.jpg
@@ -16,7 +16,7 @@ stories:
     val: blalabla
     actif: false
   doubleImage:
-    actif: false
+    actif: true
     imageHorizontal:
       alt: Legumes biologiques et locaux Croq'biot
       img: /img/img_0364v2.jpg
@@ -34,9 +34,9 @@ stories:
   cta: 
     val: Lire notre histoire
     link: /blog
-    actif: false
+    actif: true
   footnote:
-    actif: false
+    actif: true
     val: >-
       La lactofermentation est une méthode ancestrale de transformation des
       aliments. Elle consiste à convertir les sucres, contenus dans les légumes,
@@ -52,7 +52,7 @@ stories:
     lactofermentés<sup className="-yellow">&#9679;</sup> naturellement
     participeront au bonheur de votre ventre et de vos papilles.
   testimonial:
-    actif: false
+    actif: true
     from: David Rains Wallace
     quote: La fermentation est peut-être une meilleure invention que le feu.
 ---

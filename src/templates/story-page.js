@@ -2,10 +2,10 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
+import {Aux} from '../components/utility'
 import Layout from '../components/Layout'
 import { Section } from '../components/Section/Section';
 import { Contact } from '../components/Contact/Contact';
-import { Typewriter } from '../components/Typewriter/Typewriter';
 import { Banner } from '../components/Banner/Banner';
 import { FakeImg } from '../components/FakeImg/FakeImg';
 import Product  from '../components/Product/Product';
@@ -14,147 +14,116 @@ import Product  from '../components/Product/Product';
 
 
 export const StoryPageTemplate = ({
-  header,
-  story,
-  findashop,
-  product,
-  banner,
-  testimonial,
-  contact
+  storyHeader,
+  stories,
 }) => (
     <div className="main">
-    <Section>
-    <div className="grid">
-					<h1 className="col -block md-push-1 lg-push-2 title">
-						{header.firstLine}
-						<br />
-						{header.title}
-						<Typewriter
-							className="title-desc"
-							texts={[header.recette1, header.recette2, header.recette3]}
-						/>
-					</h1>
-				</div>
-
-				<div className="grid">
-					<div className="col md-7 lg-5 md-push-1 lg-push-2 lg-push-3">
-						<p className="measure" dangerouslySetInnerHTML={{ __html: story.story1 }}>							
-						</p>
-						<p className="measure" dangerouslySetInnerHTML={{ __html: story.story2 }}></p>
-
-						<p>
-							<Link to="/story" className="button">
-								{story.cta}
-							</Link>
-						</p>
-					</div>
-				
-					<div className="col md-3 lg-2">
-						<p className="small faded footnote -yellow" data-id="&#9679;">
-							{story.footnote}
-						</p>
-					</div>
-				</div>
-
-				<div className="grid">
-					<div className="gallery fake-img-group">
-						<div className="col fluid md-7 md-push-1 lg-6 lg-push-2 fake-img-wrapper">
-              <FakeImg className="-three-x-two" 
-              img={
-                !!story.imageHorizontal.img.childImageSharp
-                ? story.imageHorizontal.img.childImageSharp.fluid.src
-                : story.imageHorizontal.img
-                } />
-						</div>
-
-						<div className="col fluid md-3 fake-img-wrapper">
-							<FakeImg className="-two-x-three" img={
-                !!story.imageVertical.img.childImageSharp
-                ? story.imageVertical.img.childImageSharp.fluid.src
-                : story.imageVertical.img
-                } />
-						</div>
-					</div>
-				</div>
+      <Section>
+        <div className="grid">
+          <h1 className="col -block md-push-1 lg-push-2 title">
+            {storyHeader.title1}
+            <br />
+            <span className="salmon" >{storyHeader.title2}</span>            
+          </h1>
+        </div>
+        {storyHeader.banner.actif && (
+          <Banner img={
+            !!storyHeader.banner.image.img.childImageSharp
+            ? storyHeader.banner.image.img.childImageSharp.fluid.src
+            : storyHeader.banner.image.img
+            } 
+            mobileImg={
+              !!storyHeader.banner.mobileImage.img.childImageSharp
+              ? storyHeader.banner.mobileImage.img.childImageSharp.fluid.src
+              : storyHeader.banner.mobileImage.img
+              } />
+        )}
 			</Section>
 
-      <Section className="-salmon">
-				<div className="grid">
-					<h1 className="col md-push-1 lg-push-2">{findashop.heading}</h1>
-				</div>
-
-				<div className="grid">
-					<div className="col md-7 lg-5 md-push-1 lg-push-3">
-						<h3 className="measure-wider">{findashop.subheading}</h3>
-						<p className="measure-wider">
-							{findashop.description}
-						</p>
-						<p className="measure-wider">
-							<Link to="/stockists" className="button">
-								{findashop.cta}
-							</Link>
-						</p>
-					</div>
-				</div>
-
-				<div className="grid">
-					<div className="col fluid md-7 md-push-1 lg-6 lg-push-2">
-						<FakeImg className="-three-x-two" img={
-                !!findashop.image.img.childImageSharp
-                ? findashop.image.img.childImageSharp.fluid.src
-                : findashop.image.img
-                } />
-					</div>
-				</div>
-
-				<div className="grid">
-					<div className="col md-7 lg-5 md-push-1 lg-push-2">
-						<h2 className="h1"> {findashop.footer} </h2>
-					</div>
-				</div>
-			</Section>
-
-      <Product
-        soldout
-        {...product}
-			/>
-
-      <Banner img={
-                !!banner.image.img.childImageSharp
-                ? banner.image.img.childImageSharp.fluid.src
-                : banner.image.img
+      <Section>
+        {stories.map((story) => (
+          <Aux>
+            <div className="grid">
+            <div className="col md-7 lg-5 md-push-1 lg-push-3" >
+              {story.title.actif && (
+                <h2>{story.title.val}</h2>
+              )}
+            </div>
+            <div className="col md-7 lg-5 md-push-1 lg-push-3" >
+              <p className="measure" dangerouslySetInnerHTML={{ __html: story.story }}></p>
+              {story.cta.actif && (
+                <p>
+                    <Link to={story.cta.link} className="button">{story.cta.val}</Link>
+                </p>
+                
+              )}
+            </div>
+            {story.footnote.actif && (
+              <div className="col md-3 lg-2" >
+                <p className="small faded footnote -yellow" data-id="&#9679;">{story.footnote.val}</p>                
+              </div>
+            )}
+          </div>
+            {story.doubleImage.actif && (
+              <div className="grid">
+              <div className="gallery fake-img-group">
+                <div className="col fluid md-7 md-push-1 lg-6 lg-push-2 fake-img-wrapper">
+                  <FakeImg className="-three-x-two" 
+                  img={
+                    !!story.doubleImage.imageHorizontal.img.childImageSharp
+                    ? story.doubleImage.imageHorizontal.img.childImageSharp.fluid.src
+                    : story.doubleImage.imageHorizontal.img
+                    } />
+                </div>
+    
+                <div className="col fluid md-3 fake-img-wrapper">
+                  <FakeImg className="-two-x-three" img={
+                    !!story.doubleImage.imageVertical.img.childImageSharp
+                    ? story.doubleImage.imageVertical.img.childImageSharp.fluid.src
+                    : story.doubleImage.imageVertical.img
+                    } />
+                </div>
+              </div>
+            </div>
+            )}
+            {story.banner.actif && (
+              <Banner img={
+                !!story.banner.image.img.childImageSharp
+                ? story.banner.image.img.childImageSharp.fluid.src
+                : story.banner.image.img
                 } 
                 mobileImg={
-                  !!banner.mobileImage.img.childImageSharp
-                  ? banner.mobileImage.img.childImageSharp.fluid.src
-                  : banner.mobileImage.img
+                  !!story.banner.mobileImage.img.childImageSharp
+                  ? story.banner.mobileImage.img.childImageSharp.fluid.src
+                  : story.banner.mobileImage.img
                   } />
-
-      <Section className="-salmon testimonial">
-        <div className="grid">
-          <blockquote className="col md-9 md-push-1 lg-push-2">
-            <h3 className="h1">
-              {testimonial.quote}
-            </h3>
-            <p>{testimonial.from}</p>
-          </blockquote>
-        </div>
+            )}
+            {story.testimonial.actif && (
+              <Section className="-salmon testimonial my-10">
+                <div className="grid">
+                  <blockquote className="col md-9 md-push-1 lg-push-2">
+                    <h3 className="h1">
+                      {story.testimonial.quote}
+                    </h3>
+                    <p>{story.testimonial.from}</p>
+                  </blockquote>
+                </div>
+             </Section>
+            )}
+          </Aux>        
+        ))}
       </Section>
 
       <Section>
-        <Contact {...contact} />
+        <Contact/>
       </Section>
+
   </div>
 )
 
 StoryPageTemplate.propTypes = {
-  header: PropTypes.object,
-  story: PropTypes.object,
-  findashop: PropTypes.object,
-  product: PropTypes.object,
-  banner: PropTypes.object,
-  testimonial: PropTypes.object,
-  contact: PropTypes.object
+  storyHeader: PropTypes.object,
+  stories: PropTypes.object
 }
 
 const StoryPage = ({ data }) => {
@@ -163,13 +132,8 @@ const StoryPage = ({ data }) => {
   return (
     <Layout>
       <StoryPageTemplate
-        header={frontmatter.header}
-        story={frontmatter.story}
-        findashop={frontmatter.findashop}
-        product={frontmatter.product}
-        banner={frontmatter.banner}
-        testimonial={frontmatter.testimonial}
-        contact={frontmatter.contact}
+        storyHeader={frontmatter.storyHeader}
+        stories={frontmatter.stories}
       />
     </Layout>
   )
@@ -189,10 +153,11 @@ export const pageQuery = graphql`
 query StoryPageTemplate {
   markdownRemark(frontmatter: {templateKey: {eq: "story-page"}}) {
       frontmatter {
-        StoryHeader {
+        storyHeader {
           title1
           title2
           banner {
+            actif
             image {
               img {
                 childImageSharp {

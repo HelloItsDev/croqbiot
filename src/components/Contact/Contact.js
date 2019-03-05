@@ -27,3 +27,11 @@ export function Contact(props) {
 		</div>
 	);
 }
+
+Contact.defaultProps = {
+	facebook: 'https://facebook.com/croqbiot',
+	heading: 'Nous contacter',
+	instagram: 'https://instagram.com/croqbiot',
+	mail: 'croqbiot@gmail.com',
+	subheading: 'Ecrivez-nous à'
+  };
