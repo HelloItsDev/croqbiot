@@ -45,8 +45,12 @@ stories:
 
 
       Véritable source de probiotiques naturelles, nos recettes de légumes
-      lactofermentés<sup className="-yellow">&#9679;</sup> naturellement
-      participeront au bonheur de votre ventre et de vos papilles.
+      lactofermentés
+
+
+      ![vhjvgvgvhg](/img/img_0353.png "bhbhjb")
+
+       naturellement participeront au bonheur de votre ventre et de vos papilles.
     testimonial:
       actif: true
       from: David Rains Wallace
