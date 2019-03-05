@@ -1,7 +1,6 @@
 import React from 'react'
 
 import Layout from '../../components/Layout'
-import BlogRoll from '../../components/BlogRoll'
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -10,7 +9,7 @@ export default class BlogIndexPage extends React.Component {
       <Layout>
           <div className="main">
             <div className="grid">
-                <h1 className="col -block md-push-1 lg-push-2 title" >
+                <h1 className="col -block md-push-1 lg-push-1 title" >
                   Voici notre histoire.<br />
                   <span className="salmon" >Une histoire de bidon! </span>
                 </h1>

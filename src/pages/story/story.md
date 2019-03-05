@@ -1,0 +1,59 @@
+---
+templateKey: story-page
+StoryHeader:
+  title1: Croq'biot
+  title2: Légumes Vivants
+  banner:
+    actif: false
+    image: 
+      alt: carottes francaises et bio
+      img: /img/agriculture-carrots-dirty-1268101.jpg
+    mobileImage:
+      alt: carottes francaises et bio
+      img: /img/agriculture-carrots-dirty-1268101.jpg 
+stories:
+- title:
+    val: blalabla
+    actif: false
+  doubleImage:
+    actif: false
+    imageHorizontal:
+      alt: Legumes biologiques et locaux Croq'biot
+      img: /img/img_0364v2.jpg
+    imageVertical:
+      alt: Fondatrice Croq'biot
+      img: /img/img_0413v2.jpg
+  banner:
+    actif: false
+    image: 
+      alt: carottes francaises et bio
+      img: /img/agriculture-carrots-dirty-1268101.jpg
+    mobileImage:
+      alt: carottes francaises et bio
+      img: /img/agriculture-carrots-dirty-1268101.jpg 
+  cta: 
+    val: Lire notre histoire
+    link: /blog
+    actif: false
+  footnote:
+    actif: false
+    val: >-
+      La lactofermentation est une méthode ancestrale de transformation des
+      aliments. Elle consiste à convertir les sucres, contenus dans les légumes,
+      en acide lactique. C’est cette acidification qui donne aux légumes un goût
+      frais et acidulé.
+    
+  story: >-
+    Chez Croq'biot, nous nous engageons à produire des aliments vivants pour
+    bien vivre. 
+
+
+    Véritable source de probiotiques naturelles, nos recettes de légumes
+    lactofermentés<sup className="-yellow">&#9679;</sup> naturellement
+    participeront au bonheur de votre ventre et de vos papilles.
+  testimonial:
+    actif: false
+    from: David Rains Wallace
+    quote: La fermentation est peut-être une meilleure invention que le feu.
+---
+
