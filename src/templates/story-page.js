@@ -48,7 +48,7 @@ export const StoryPageTemplate = ({
             </div>
             <div className="col md-7 lg-5 md-push-1 lg-push-3" >
               <p className="measure" dangerouslySetInnerHTML={{ __html: story.story }}></p>
-              {story.cta.actif && (
+              {story.cta && story.cta.actif && (
                 <p>
                     <Link to={story.cta.link} className="button">{story.cta.val}</Link>
                 </p>
