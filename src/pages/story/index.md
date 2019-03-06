@@ -167,8 +167,49 @@ stories:
       val: 'La lactofermentation, qu''est-ce que c''est ?'
   - cta:
       actif: true
-      val: 'En connaitre plus sur les avantages des légumes lactofermentés  '
-    story: "Le premier avantage, qui est ce pourquoi la fermentation a été créer, est la conservation.\r\n\nEn effet, des légumes correctement lactofermentés ont une durée de conservation très longue, sans avoir besoin d'énergie (conservation à température ambiante et pas besoin de cuisson).\r\n\n \r\n\nLes légumes lactofermentés sont également très intéressant pour leurs bénéfices nutritionnels et sanitaires. Des recherches scientifiques ont confirmé le lien entre la santé et les bactéries vivantes, contenu dans ces produits, que l'on appelle les probiotiques. \r\n\nCes probiotiques naturels peuvent reconstituer et diversifier le microbiote, qui peut être responsable de certaines maladies, troubles digestives etc...\r\n\n\rLes avantages utilitaires vus, passons enfin à celui qui a provoqué ma passion et l'envie de me plonger dans cette aventure : LE GOUT !\r\n\n\rSe nourrir d’aliments bons pour notre organisme est bien, mais nous sommes d'accord que, si nous n'aimons pas le goût, nous ne remettrons pas notre fourchette dans le plat !\r\n\n\rJ'ai eu donc un vrai plaisir à découvrir des saveurs nouvelles liées à la lactofermentation des légumes, des saveurs complexes, acidulés et de fraicheur qui s'agrémentent parfaitement à tout type de plat."
+      val: En savoir plus sur les avantages des légumes vivants
+    story: >-
+      Le premier avantage, qui est ce pourquoi la fermentation a été créer, est
+      la conservation. <br />
+
+
+      En effet, des légumes correctement lactofermentés ont une durée de
+      conservation très longue, sans avoir besoin d'énergie (conservation à
+      température ambiante et pas besoin de cuisson). <br />
+
+
+      <br />
+
+
+      Les légumes lactofermentés sont également très intéressant pour leurs
+      bénéfices nutritionnels et sanitaires. <br />
+
+
+      Des recherches scientifiques ont confirmé le lien entre la santé et les
+      bactéries vivantes, contenu dans ces produits, que l'on appelle les
+      probiotiques. 
+
+
+      Ces probiotiques naturels peuvent reconstituer et diversifier le
+      microbiote, qui peut être responsable de certaines maladies, troubles
+      digestives etc... <br />
+
+
+      <br />
+
+
+      Les avantages utilitaires vus, passons enfin à celui qui a provoqué ma
+      passion et l'envie de me plonger dans cette aventure : LE GOUT ! <br />
+
+
+      Se nourrir d’aliments bons pour notre organisme est bien, mais nous sommes
+      d'accord que, si nous n'aimons pas le goût, nous ne remettrons pas notre
+      fourchette dans le plat ! <br />
+
+
+      J'ai eu donc un vrai plaisir à découvrir des saveurs nouvelles et
+      complexes liées à la lactofermentation des légumes, acidulés et frais qui
+      s'agrémentent parfaitement à tout type de plat.
     title:
       actif: true
       val: Les avantages de manger vivant
