@@ -69,5 +69,12 @@ stories:
     title:
       actif: true
       val: Les avantages de manger vivant
+  - cta:
+      actif: true
+      val: Rencontrer nos producteurs
+    story: "C'est en voulant acheter des légumes lactofermentés en magasin que j'ai été très déçu face à la pauvreté du choix.\r\n\nEn effet, j'ai constaté que l'offre des produits lactofermentés se résumait à la choucroute déjà vu et revu, ou bien, à des produits industriels remplient de promesses mais pasteurisés (procédé qui supprime les probiotiques apportés par la fermentation et n'ont donc plus d'intérêt) et emballés dans des pots en plastiques.\r\n\n \rAu temps vous dire que ni mes papilles gustatives ni mon esprit éco-responsable ne voulaient acheter ces produits.\r\n\n J'ai donc eu l'envie de partager mon expérience et des recettes savoureuses et originales à travers une marque locale, Croq'biot. \r\n\n\rLes légumes lactofermentés Croq'biot suivent 3 piliers : \r\n\n* Local\r\n* Bio\r\n* Eco-responsable\r\n\n \r\n\nCroq'biot c'est avoir des légumes lactofermentés gourmands, croquants et originaux prêt à être dévoré dans une salade ou un hamburger.\r\n\n\rLes légumes lactofermentés Croq'biot sont uniques ! \r\n\n\rIls sont fabriqués et mis en bocal à la main ici-même, en Essonne. Et, dans un but de proposer des produits de qualités et pour soutenir l'économie locale, nous utilisons des légumes frais issus de l'agriculture biologique provenant de producteurs français locaux. \r\n\nNous respectons également les saisons et nos légumes sont cueillis à maturité afin de profiter de leur véritable saveur."
+    title:
+      actif: true
+      val: Les légumes lactofermentés Croq'biot
 ---
 
