@@ -8,7 +8,6 @@ import { Section } from '../components/Section/Section';
 import { Contact } from '../components/Contact/Contact';
 import { Banner } from '../components/Banner/Banner';
 import { FakeImg } from '../components/FakeImg/FakeImg';
-import Product  from '../components/Product/Product';
 
 
 
@@ -25,7 +24,7 @@ export const StoryPageTemplate = ({
             <span className="salmon" >{storyHeader.title2}</span>            
           </h1>
         </div>
-        {storyHeader.banner.actif && (
+        {storyHeader.banner && storyHeader.banner.actif && (
           <Banner img={
             !!storyHeader.banner.image.img.childImageSharp
             ? storyHeader.banner.image.img.childImageSharp.fluid.src
@@ -43,7 +42,7 @@ export const StoryPageTemplate = ({
           <Aux>
             <div className="grid">
             <div className="col md-7 lg-5 md-push-1 lg-push-3" >
-              {story.title.actif && (
+              {story.title && story.title.actif && (
                 <h2>{story.title.val}</h2>
               )}
             </div>
@@ -56,13 +55,13 @@ export const StoryPageTemplate = ({
                 
               )}
             </div>
-            {story.footnote.actif && (
+            {story.footnote && story.footnote.actif && (
               <div className="col md-3 lg-2" >
                 <p className="small faded footnote -yellow" data-id="&#9679;">{story.footnote.val}</p>                
               </div>
             )}
           </div>
-            {story.doubleImage.actif && (
+            {story.doubleImage && story.doubleImage.actif && (
               <div className="grid">
               <div className="gallery fake-img-group">
                 <div className="col fluid md-7 md-push-1 lg-6 lg-push-2 fake-img-wrapper">
@@ -84,7 +83,7 @@ export const StoryPageTemplate = ({
               </div>
             </div>
             )}
-            {story.banner.actif && (
+            {story.banner && story.banner.actif && (
               <Banner img={
                 !!story.banner.image.img.childImageSharp
                 ? story.banner.image.img.childImageSharp.fluid.src
@@ -96,7 +95,7 @@ export const StoryPageTemplate = ({
                   : story.banner.mobileImage.img
                   } />
             )}
-            {story.testimonial.actif && (
+            {story.testimonial && story.testimonial.actif && (
               <Section className="-salmon testimonial my-10">
                 <div className="grid">
                   <blockquote className="col md-9 md-push-1 lg-push-2">
