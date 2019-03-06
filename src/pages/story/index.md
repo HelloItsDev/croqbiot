@@ -108,11 +108,54 @@ stories:
 
       Et j'ai trouvé : les produits lactofermentés !
     title:
-      val: Gellules probiotiques
+      val: Gelules probiotiques
   - cta:
       actif: true
       val: En savoir plus sur les légumes lactofermentés
-    story: "La lactofermentation est une méthode de conservation créant des aliments vivants.\r\n\n \r\n\nOui, vous avez bien lu, \"des aliments VIVANTS\" ! \r\n\n \r\n\nBien sûr, ils ne sautillent pas en criant \"Mangez-moi, mangez-moi !\", hein ! \r\n\nMais ils sont vivants grâce aux bonnes bactéries vivantes qui les composent et qui sont évolutives.\r\n\n \rAmoureuse et grande consommatrice de légumes de toutes sortes, j'ai décidé de lier ma découverte avec ce que j'aimais manger au quotidien.\r\n\nJe me suis donc intéressée aux légumes lactofermentés.\r\n\n \rLes légumes lactofermentés sont créés par la transformation des sucres, contenus dans les légumes, en acide lactique par les bactéries lactiques. \r\n\n \rCe procédé m'a fasciné ! Il regroupe des valeurs que je partage comme le respect des produits naturels et de l'environnement, ainsi que le \"manger sainement\"."
+    footnote:
+      actif: true
+      val: >-
+        La lactofermentation n’a rien à voir avec le lactose. Elle tient son nom
+        de ses bactéries appelés bactéries lactiques (lactobacilles) et ne
+        proviennent pas du lait.
+    story: >-
+      La lactofermentation est une méthode de conservation créant des aliments
+      vivants.<br />
+
+
+      Oui, vous avez bien lu, "des aliments VIVANTS" ! <br />
+
+
+      Bien sûr, ils ne sautillent pas en criant "Mangez-moi, mangez-moi !", hein
+      ! <br />
+
+
+      Mais ils sont vivants grâce aux bonnes bactéries vivantes qui les
+      composent et qui sont évolutives.<br />
+
+
+      <br />
+
+
+      Amoureuse et grande consommatrice de légumes de toutes sortes, j'ai décidé
+      de lier ma découverte avec ce que j'aimais manger au quotidien.
+
+
+      Je me suis donc intéressée aux légumes lactofermentés <sup
+      className="-yellow">&#9679;</sup>. <br />
+
+
+      Les légumes lactofermentés sont créés par la transformation des sucres,
+      contenus dans les légumes, en acide lactique par les bactéries lactiques.
+      <br />
+
+
+      <br />
+
+
+      Ce procédé m'a fasciné ! Il regroupe des valeurs que je partage comme le
+      respect des produits naturels et de l'environnement, ainsi que le "manger
+      sainement".
     title:
       actif: true
       val: 'La lactofermentation, qu''est-ce que c''est ?'
