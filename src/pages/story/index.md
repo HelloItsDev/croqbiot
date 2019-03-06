@@ -250,6 +250,9 @@ stories:
       <br />
 
 
+      ![Preparation Croq'biot](/img/img_0477.png "Preparation Croq'biot")
+
+
       Les légumes lactofermentés Croq'biot sont : <br />
 
 
