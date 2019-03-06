@@ -4,8 +4,8 @@ actifBlog: true
 title: Le microbiote intestinal
 date: 2019-06-03T08:04:00.000Z
 description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
+  Le microbiote intestinal regroupe l’ensemble des microbes présents dans notre
+  intestin. Souvent abandonné, il est essentiel à notre bien-être et santé.
 readingTime: 5 minutes
 BlogImage:
   alt: microbiote intestinal
@@ -17,7 +17,7 @@ tags:
   - digestion
   - probiotiques
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/side-strip-2-copy-21092017082050-1000x0.jpg)
 
 Vous avez surement déjà vu-entendu-lu ce mot dans des magazines, émissions, reportages, internet etc… Nous voyons de plus en plus la notion de microbiote car ce sujet est devenu une des priorités pour la recherche en santé. 
 
@@ -37,7 +37,7 @@ Ces 2kg de micro-organismes, situes dans nos intestins, jouent un rôle crucial 
 
 ## Quelle est le rôle du microbiote ?
 
-Le microbiote joue un rôle majeur dans notre bien-être et sante.
+Le microbiote joue un rôle majeur dans notre bien-être et santé.
 
 Tout d'abord, il joue un rôle dans la digestion.
 
@@ -97,12 +97,10 @@ Je vous encourage de privilégier les sources de probiotique naturelle et non de
 
 **Découvrir les légumes lactofermentés Croq'biot local et bio**
 
-
-
 Sources :
 
 * https://www.inserm.fr/information-en-sante/dossiers-information/microbiote-intestinal-flore-intestinale
 * https://www.nutergia.com/fr/nutergia-votre-expert-conseil/dossiers-bien-etre/microbiote.php
 * http://www.inra.fr/Grand-public/Dossiers/INRA-SIA-2017-les-mondes-microbiens/Microbiote-intestinal
 
-****
+- - -
