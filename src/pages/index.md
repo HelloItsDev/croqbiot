@@ -52,7 +52,7 @@ product:
     img: /img/pot.png
   message: Nous ne livrons que sur Paris et sa proche banlieue pour le moment.
   status: DISPONIBLE
-  subTitle: '370 g – 4,50 €'
+  subTitle: '500 g – 5,60 €'
   title: Carottes Gingembre Curcuma lactofermentés
 banner:
   image:
