@@ -138,7 +138,7 @@ const ProductPage = ({ data }) => {
   return (
     <Layout>
       <ProductPageTemplate
-        image={frontmatter.image}
+        image={frontmatter.productImage}
         title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
@@ -167,7 +167,7 @@ export const productPageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
-        image {
+        productImage {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
               ...GatsbyImageSharpFluid
