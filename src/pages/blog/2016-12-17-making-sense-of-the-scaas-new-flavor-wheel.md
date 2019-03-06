@@ -22,9 +22,7 @@ Vous avez surement déjà vu-entendu-lu ce mot dans des magazines, émissions, r
 
 Si vous ne savez pas ce que c'est où bien que vous avez besoin d'informations supplémentaires et des conseils pour en prendre en soin, vous êtes sur le bon article.
 
-Partons donc à la découverte du microbiote afin de comprendre son importance et à apprendre à en prendre soin.
-
-
+Partons donc à la découverte du microbiote afin de comprendre son importance et à apprendre à en prendre soin.
 
 ## Le microbiote intestinal, qu'est-ce que c'est ?
 
@@ -36,9 +34,7 @@ Lors de la naissance, le microbiote s'alimente par les voies naturelles de la m�
 
 Ces 2kg de micro-organismes, situes dans nos intestins, jouent un rôle crucial dans la digestion, l'immunité, métabolique et physiologique, et neuronal.
 
-
-
-## Quelle est le rôle du microbiote ? 
+## Quelle est le rôle du microbiote ?
 
 Le microbiote joue un rôle majeur dans notre bien-être et sante.
 
@@ -62,8 +58,6 @@ Comment ?
 
 Les probiotiques lactobacilles, en fortifiant la barrière intestinale, ils réduisent le passage dans la circulation des lipopolysaccharides (partie toxiques contenu dans la membrane extérieur des bactéries) présents dans les intestins. La réduction de leur passage agirait comme un antistress.
 
-
-
 ## La fragilité du microbiote
 
 De nombreux facteurs peuvent déséquilibrer le microbiote intestinal : on parle de dysbiose. 
@@ -80,8 +74,6 @@ Les principales raisons d'un déséquilibre du microbiote sont l'alimentation et
 
 ![Les causes d'un microbiote déséquilibré](/img/microbiote-sensible.jpg "Les causes d'un microbiote déséquilibré")
 
-
-
 ## Comment prendre soin de mon microbiote ?
 
 1. Soigner votre hygiène de vie
@@ -91,8 +83,6 @@ C'est très simple : PRENEZ SOIN DE VOUS !
 Bougez, respirez, marchez, faites une activité sportive, et pensez à prendre votre temps pendant les repas pour bien mâcher et profiter de vos aliments.
 
 Cote aliments, les fibres contenus dans les légumes frais ou secs, les fruits et les céréales, sont le fuel de notre microbiote. Des chercheurs de l’Inra ont montré que plus l’apport en fibres est important, plus la diversité et le nombre d’espèces de bactéries sont importants. Et donc, le microbiote devient plus stable et équilibré.
-
-
 
 2. Réensemencez avec de bons ferments lactiques : les probiotiques
 
@@ -105,3 +95,13 @@ Selon l'Organisation Mondiale de la Sante, les probiotiques sont définis comme 
 Je vous encourage de privilégier les sources de probiotique naturelle et non des gélules industrielles. Vous trouverez de très bonne source de probiotiques dans les produits fermentes comme le kéfir, le kombucha et les légumes lactofermentés.
 
 **Découvrir les légumes lactofermentés Croq'biot local et bio**
+
+
+
+Sources :
+
+* https://www.inserm.fr/information-en-sante/dossiers-information/microbiote-intestinal-flore-intestinale
+* https://www.nutergia.com/fr/nutergia-votre-expert-conseil/dossiers-bien-etre/microbiote.php
+* http://www.inra.fr/Grand-public/Dossiers/INRA-SIA-2017-les-mondes-microbiens/Microbiote-intestinal
+
+****
