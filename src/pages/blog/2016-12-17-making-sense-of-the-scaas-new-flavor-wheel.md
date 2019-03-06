@@ -17,7 +17,7 @@ tags:
   - digestion
   - probiotiques
 ---
-![flavor wheel](/img/side-strip-2-copy-21092017082050-1000x0.jpg)
+![microbiote](/img/side-strip-2-copy-21092017082050-1000x0.jpg)
 
 Vous avez surement déjà vu-entendu-lu ce mot dans des magazines, émissions, reportages, internet etc… Nous voyons de plus en plus la notion de microbiote car ce sujet est devenu une des priorités pour la recherche en santé. 
 
