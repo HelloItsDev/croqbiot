@@ -18,7 +18,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "ReadingTime", name: "readingTime", widget: "text"}
-      - {label: BlogImage, name: image, widget:  object, fields: [{label: Image, name: img, widget: image}, {label: Alt, name: alt, widget: string}]}
+      - {label: Image, name: BlogImage, widget:  object, fields: [{label: Image, name: img, widget: image}, {label: Alt, name: alt, widget: string}]}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 

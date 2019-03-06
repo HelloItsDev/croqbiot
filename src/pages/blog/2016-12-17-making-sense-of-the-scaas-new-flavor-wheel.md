@@ -7,7 +7,7 @@ description: >-
   The Coffee Taster’s Flavor Wheel, the official resource used by coffee
   tasters, has been revised for the first time this year.
 readingTime: 5 minutes
-image:
+BlogImage:
   alt: microbiote intestinal
   img: /img/side-strip-2-copy-21092017082050-1000x0.jpg
 tags:
