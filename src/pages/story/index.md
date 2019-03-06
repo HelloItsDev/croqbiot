@@ -125,8 +125,8 @@ stories:
         de ses bactéries appelés bactéries lactiques (lactobacilles) et ne
         proviennent pas du lait.
     story: >-
-      La lactofermentation est une méthode de conservation créant des aliments
-      vivants.<br />
+      La lactofermentation<sup className="-yellow">&#9679;</sup> est une méthode
+      de conservation créant des aliments vivants.<br />
 
 
       <br />
@@ -153,8 +153,7 @@ stories:
       de lier ma découverte avec ce que j'aimais manger au quotidien.
 
 
-      Je me suis donc intéressée aux légumes lactofermentés <sup
-      className="-yellow">&#9679;</sup>. <br />
+      Je me suis donc intéressée aux légumes lactofermentés. <br />
 
 
       Les légumes lactofermentés sont créés par la transformation des sucres,
