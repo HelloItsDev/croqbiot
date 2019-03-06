@@ -10,7 +10,7 @@ storyHeader:
       alt: carottes francaises et bio
       img: /img/agriculture-carrots-dirty-1268101.jpg
   title1: 'Voici notre histoire,'
-  title2: une histoire de bidon!
+  title2: une histoire de bidon !
 stories:
   - banner:
       actif: false
@@ -21,11 +21,11 @@ stories:
         alt: carottes francaises et bio
         img: /img/agriculture-carrots-dirty-1268101.jpg
     cta:
-      actif: true
+      actif: false
       link: /blog
       val: Lire notre histoire
     doubleImage:
-      actif: true
+      actif: false
       imageHorizontal:
         alt: Legumes biologiques et locaux Croq'biot
         img: /img/img_0364v2.jpg
@@ -39,7 +39,22 @@ stories:
         aliments. Elle consiste à convertir les sucres, contenus dans les
         légumes, en acide lactique. C’est cette acidification qui donne aux
         légumes un goût frais et acidulé.
-    story: "C'est d'une envie de partager sur l'importance de manger équilibré et de prendre soin de son intestin qu'est née le projet Croq'biot.\r\n\n Lors d'un voyage en Asie, qui a été compliqué digestivement parlant, je me suis intéressée à la micronutrition. \r\n\nJ'ai découvert tellement d'informations et d'études mettant en lien notre cerveau et notre intestin que cela m'a fait prendre conscience de l'importance de prendre soin de son intestin, plus particulièrement de son microbiote intestinal."
+    story: >-
+      C'est d'une envie de partager sur l'importance de manger équilibré et de
+      prendre soin de son intestin qu'est née le projet Croq'biot. <br />
+
+
+      <br />
+
+
+      Lors d'un voyage en Asie, qui a été compliqué digestivement parlant, je me
+      suis intéressée à la micronutrition. <br />
+
+
+      J'ai découvert tellement d'informations et d'études mettant en lien notre
+      cerveau et notre intestin que cela m'a fait prendre conscience de
+      l'importance de prendre soin de son intestin, plus particulièrement de son
+      microbiote intestinal.
     testimonial:
       actif: false
       from: David Rains Wallace
