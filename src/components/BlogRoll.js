@@ -16,14 +16,17 @@ class BlogRoll extends React.Component {
             .map(({ node: post }) => (
               
               <Link className="article" to={post.fields.slug} key={post.id}>
+              {post.frontmatter.BlogImage && (
                 <FakeImg className="-three-x-two" 
-                  indexable
-                  alt={post.frontmatter.BlogImage.alt}
-                  img={
-                    !!post.frontmatter.BlogImage.img.childImageSharp
-                    ? post.frontmatter.BlogImage.img.childImageSharp.fluid.src
-                    : post.frontmatter.BlogImage.img
-                    } />
+                indexable
+                alt={post.frontmatter.BlogImage.alt}
+                img={
+                  !!post.frontmatter.BlogImage.img.childImageSharp
+                  ? post.frontmatter.BlogImage.img.childImageSharp.fluid.src
+                  : post.frontmatter.BlogImage.img
+                  } />
+              )}
+                
                 <div className="info">
                   <h2>{post.frontmatter.title}</h2>
                   <p className="description" >
