@@ -21,7 +21,7 @@ story:
     img: /img/img_0413v2.jpg
   story1: >-
     Chez Croq'biot, nous nous engageons à produire des aliments vivants pour
-    bien vivre. 
+    bien vivre. <br />
 
 
     Enrichies en vitamines et en probiotiques naturels, nos recettes de légumes
