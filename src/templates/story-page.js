@@ -38,7 +38,7 @@ export const StoryPageTemplate = ({
         )}
 
       <Section>
-        {stories.map((story) => ( 
+        {stories.map((story) => (
           <Aux>
             <div className="grid">
             <div className="col md-7 lg-5 md-push-1 lg-push-3" >
