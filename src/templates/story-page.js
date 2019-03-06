@@ -120,7 +120,7 @@ export const StoryPageTemplate = ({
 
 StoryPageTemplate.propTypes = {
   storyHeader: PropTypes.object,
-  stories: PropTypes.object
+  stories: PropTypes.array
 }
 
 const StoryPage = ({ data }) => {

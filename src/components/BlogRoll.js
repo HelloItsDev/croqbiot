@@ -13,9 +13,10 @@ class BlogRoll extends React.Component {
       <div className="grid">
         <div className="col md-10 md-push-1 lg-push-1">
         {posts && (posts
-            .map(({ node: post }) => (
-              
-              <Link className="article" to={post.fields.slug} key={post.id}>
+            .map(({ node: post }) => {
+              if (post.frontmatter.actifBlog){
+                return (
+                  <Link className="article" to={post.fields.slug} key={post.id}>
               {post.frontmatter.BlogImage && (
                 <FakeImg className="-three-x-two" 
                 indexable
@@ -41,7 +42,12 @@ class BlogRoll extends React.Component {
                 </div>
                 
               </Link>
-            )))}
+                )
+              }
+            }
+              
+              
+            ))}
             </div>
           </div>
     );
@@ -72,6 +78,7 @@ export default () => (
               slug
             }
             frontmatter {
+              actifBlog
               title
               readingTime
               description

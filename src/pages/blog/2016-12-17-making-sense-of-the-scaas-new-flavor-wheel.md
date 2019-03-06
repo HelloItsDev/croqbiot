@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+actifBlog: true
 title: Le microbiote intestinal
 date: 2019-06-03T08:04:00.000Z
 description: >-
