@@ -24,7 +24,7 @@ story:
     bien vivre. 
 
 
-    Véritable source de probiotiques naturelles, nos recettes de légumes
+    Enrichies en vitamines et en probiotiques naturels, nos recettes de légumes
     lactofermentés<sup className="-yellow">&#9679;</sup> naturellement
     participeront au bonheur de votre ventre et de vos papilles.
   story2: >-
