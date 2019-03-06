@@ -34,11 +34,7 @@ stories:
         img: /img/img_0413v2.jpg
     footnote:
       actif: false
-      val: >-
-        La lactofermentation est une méthode ancestrale de transformation des
-        aliments. Elle consiste à convertir les sucres, contenus dans les
-        légumes, en acide lactique. C’est cette acidification qui donne aux
-        légumes un goût frais et acidulé.
+      val: ''
     story: >-
       C'est d'une envie de partager sur l'importance de manger équilibré et de
       prendre soin de son intestin qu'est née le projet Croq'biot. <br />
@@ -53,8 +49,8 @@ stories:
 
       J'ai découvert tellement d'informations et d'études mettant en lien notre
       cerveau et notre intestin que cela m'a fait prendre conscience de
-      l'importance de prendre soin de son intestin, plus particulièrement de son
-      microbiote intestinal.
+      l'importance de prendre soin de son intestin, et plus particulièrement de
+      son microbiote intestinal.
     testimonial:
       actif: false
       from: David Rains Wallace
@@ -64,12 +60,55 @@ stories:
       val: blalabla
   - cta:
       actif: true
-      val: En savoir plus sur mon microbiote
-    story: "Le microbiote, anciennement appelé la flore intestinale, est un organe très précieux pour la digestion et le transit. \r\n\nIl est souvent très mal mené par l'hygiène de vie et l'alimentation d'aujourd'hui (additifs alimentaires, édulcorants, antibiotiques, alcool etc..), et peut subir un déséquilibre."
+      val: En savoir plus sur le microbiote
+    story: >-
+      Le microbiote, anciennement appelé la flore intestinale, est un organe
+      très précieux pour la digestion et le transit. <br />
+
+
+      Il est souvent très mal mené par l'hygiène de vie et l'alimentation
+      d'aujourd'hui (additifs alimentaires, édulcorants, antibiotiques, alcool
+      etc..), et peut subir un déséquilibre.
     title:
       actif: true
-      val: Le micro quoi ?
-  - story: "Une des solutions pour prendre soin de son microbiote est de le réensemencer avec de bons ferments lactiques, aussi appelé probiotiques.\r\n\n \rAujourd'hui, la majorité des personnes s'alimente en probiotiques par des gélules. \r\n\n \rMais comment ne pas être noyé parmi toutes les marques de laboratoires de gélules avec promesses et grammages différents ?\r\n\n \rBien qu'on puisse y voir un côté pratique à ce format, ces gélules sont souvent très peu dosées et peuvent nécessiter une prise de 7 gélules par jour pour pouvoir bénéficier des avantages.\r\n\n \rDevoir gober 7 gélules par jour ? Non merci.\r\n\n De plus, j'ai tendance à privilégier les produits naturels quand cela est possible.\r\n\n \rJ'ai donc réfléchi à une solution permettant de se réalimenter de manière naturelle en probiotiques sans prendre de compléments alimentaires en gélules.\r\n\n \rEt j'ai trouvé : les produits lactofermentés !"
+      val: Le micro.. quoi ?
+  - story: >-
+      <br />
+
+
+      Une des solutions pour prendre soin de son microbiote est de le
+      réensemencer avec de bons ferments lactiques, aussi appelé probiotiques.
+      <br />
+
+
+      Aujourd'hui, la majorité des personnes s'alimente en probiotiques par des
+      gélules. 
+
+
+      Mais comment ne pas être noyé parmi toutes les marques de laboratoires de
+      gélules avec promesses et grammages différents ? <br />
+
+
+      Bien qu'on puisse y voir un côté pratique à ce format, ces gélules sont
+      souvent très peu dosées et peuvent nécessiter une prise de 7 gélules par
+      jour pour pouvoir bénéficier des avantages. <br />
+
+
+      Devoir gober 7 gélules par jour ? Non merci. <br />
+
+       De plus, j'ai tendance à privilégier les produits naturels quand cela est possible. <br />
+
+      <br />
+
+
+      J'ai donc réfléchi à une solution permettant de se réalimenter de manière
+      naturelle en probiotiques sans prendre de compléments alimentaires en
+      gélules.
+
+
+      Et j'ai trouvé : les produits lactofermentés !
+    title:
+      val: Gellules probiotiques
   - cta:
       actif: true
       val: En savoir plus sur les légumes lactofermentés
