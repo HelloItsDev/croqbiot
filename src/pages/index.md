@@ -48,11 +48,11 @@ product:
     sandwich.
   image:
     alt: image description
-    img: /img/pot.png
+    img: /img/pot1.png
   message: Nous ne livrons que sur Paris et sa proche banlieue pour le moment.
   status: DISPONIBLE EN PRE-COMMANDE
   subTitle: '500 g – 5,60 €'
-  title: Carottes Gingembre Curcuma lactofermentés
+  title: Carotte - Gingembre Croq'biot
 banner:
   image:
     alt: carottes francaises et bio
