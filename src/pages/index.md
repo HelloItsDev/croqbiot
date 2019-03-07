@@ -43,15 +43,14 @@ findashop:
   subheading: Trouver nos legumes Croq'biot
 product:
   description: >-
-    If you'd like to read more about our closure, <a
-    href="https://medium.com/@OiDonaRita/time-to-say-goodbye-e56803c3f084">
-      read our goodbye letter
-    </a> .
+    Nos carottes lactofermentés sont croquantes et savoureuses. Elles seront
+    parfaites pour agrémenter vos salades, sur des toasts grillés ou dans un
+    sandwich.
   image:
     alt: image description
     img: /img/pot.png
   message: Nous ne livrons que sur Paris et sa proche banlieue pour le moment.
-  status: DISPONIBLE
+  status: DISPONIBLE EN PRE-COMMANDE
   subTitle: '500 g – 5,60 €'
   title: Carottes Gingembre Curcuma lactofermentés
 banner:
