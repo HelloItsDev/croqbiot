@@ -269,6 +269,10 @@ a {
 .logo-title{
 	max-width: 250px !important;
 	margin-bottom: 0;
+	@media (max-width: 800px) {
+		margin-top: 50px;
+		max-width: 150px !important;
+	}
 }
 
 .title {
