@@ -62,6 +62,7 @@ Un déséquilibre du microbiote peut se manifester par des maux de ventre, des t
 Les principales raisons d'un déséquilibre du microbiote sont l'alimentation et un traitement antibiotique. <br /> À savoir qu'un traitement antibiotique réduit la qualité et la quantité du microbiote sur plusieurs jours à plusieurs semaines.
 
 ![Les causes d'un microbiote déséquilibré](/img/microbiote-sensible.jpg "Les causes d'un microbiote déséquilibré")
+<p class="legende"> Ceci est une legende: <a href="/lien"> lien ici</a></p>
 
 ## Comment prendre soin de mon microbiote ?
 
