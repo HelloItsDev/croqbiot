@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 header:
-  logo: /img/croqbiot250-.webp
+  logo: /img/croqbiot250-.png
   firstLine: Croq'biot
   recette1: Bio
   recette2: Locaux
