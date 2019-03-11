@@ -11,7 +11,6 @@ export class FakeImg extends React.Component {
 	};
 
 	render() {
-		console.log(!this.props.indexable)
 		return (
 			<Aux>
 				{!this.props.indexable && (
