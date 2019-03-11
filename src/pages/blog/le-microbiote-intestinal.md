@@ -17,7 +17,7 @@ tags:
   - digestion
   - probiotiques
 ---
-![microbiote](/img/les-causes-d-un-microbiote-2-.png)
+![microbiote](/img/microbiote-intestinal.jpg)
 
 Vous avez surement déjà vu-entendu-lu ce mot dans des magazines, émissions, reportages, internet etc… Nous voyons de plus en plus la notion de microbiote car ce sujet est devenu une des priorités pour la recherche en santé. 
 
