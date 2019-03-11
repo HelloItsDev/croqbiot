@@ -118,7 +118,7 @@ stories:
       val: Gelules probiotiques
   - cta:
       actif: true
-      link: /le-secret-de-la-lactofermentation
+      link: /blog/le-secret-de-la-lactofermentation/
       val: En savoir plus sur les légumes lactofermentés
     footnote:
       actif: true
