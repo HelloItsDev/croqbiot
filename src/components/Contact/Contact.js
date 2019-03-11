@@ -2,7 +2,7 @@ import React from 'react';
 
 export function Contact(props) {
 	return (
-		<div>
+		<div className="contact" >
 			<div className="grid">
 				<h1 className="col md-push-1 lg-push-2"> {props.heading} </h1>
 			</div>

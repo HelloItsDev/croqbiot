@@ -1,9 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
-import { graphql, Link } from 'gatsby'
+import { graphql} from 'gatsby'
 import Layout from '../components/Layout'
+import { Contact } from '../components/Contact/Contact'
 import Content, { HTMLContent } from '../components/Content'
 
 export const BlogPostTemplate = ({
@@ -25,11 +25,12 @@ export const BlogPostTemplate = ({
           </h1>
       </div>
       <div className="grid" >
-      <div className="md-8 lg-6 -block md-push-1 lg-push-1" >
-        <p>{description}</p>
-        <PostContent content={content} />
+        <div className="md-8 lg-6 -block md-push-1 lg-push-1" >
+          <p>{description}</p>
+          <PostContent content={content} />
+        </div>
       </div>
-      </div>
+      <Contact />
     </section>
   )
 }
