@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Croq'biot, Légumes lactofermentés",
     description: "Des bonnes recettes de légumes lactofermentés fait maison.",
+    siteUrl: `https://croqbiot.fr`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -74,6 +75,7 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
+    `gatsby-plugin-sitemap`,
     {
       resolve:'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
