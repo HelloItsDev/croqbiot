@@ -9,7 +9,7 @@ description: >-
 readingTime: 3 minutes
 BlogImage:
   alt: microbiote intestinal
-  img: /img/microbiote-intestinal.jpg
+  img: /img/side-strip-2-copy-21092017082050-1000x0.jpg
 tags:
   - microbiote
   - intestinal
