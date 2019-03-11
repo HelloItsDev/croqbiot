@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://croqbiot.netlify.com/* https://croqbiot.fr/:splat 301!
