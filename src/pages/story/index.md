@@ -37,14 +37,14 @@ stories:
       val: ''
     story: >-
       C'est d'une envie de partager sur l'importance de manger équilibré et de
-      prendre soin de son intestin qu'est née le projet Croq'biot. <br />
+      prendre soin de son intestin qu'est née le projet Croq'biot. 
 
 
-      <br />
+      
 
 
       Lors d'un voyage en Asie, qui a été compliqué digestivement parlant, je me
-      suis intéressée à la micronutrition. <br />
+      suis intéressée à la micronutrition. 
 
 
       J'ai découvert tellement d'informations et d'études mettant en lien notre
@@ -63,7 +63,7 @@ stories:
       val: En savoir plus sur le microbiote
     story: >-
       Le microbiote, anciennement appelé la flore intestinale, est un organe
-      très précieux pour la digestion et le transit. <br />
+      très précieux pour la digestion et le transit. 
 
 
       Il est souvent très mal mené par l'hygiène de vie et l'alimentation
@@ -73,12 +73,12 @@ stories:
       actif: true
       val: Le micro.. quoi ?
   - story: >-
-      <br />
+      
 
 
       Une des solutions pour prendre soin de son microbiote est de le
       réensemencer avec de bons ferments lactiques, aussi appelé probiotiques.
-      <br />
+      
 
 
       Aujourd'hui, la majorité des personnes s'alimente en probiotiques par des
@@ -86,25 +86,25 @@ stories:
 
 
       Mais comment ne pas être noyé parmi toutes les marques de laboratoires de
-      gélules avec promesses et grammages différents ? <br />
+      gélules avec promesses et grammages différents ? 
 
 
       Bien qu'on puisse y voir un côté pratique à ce format, ces gélules sont
       souvent très peu dosées et peuvent nécessiter une prise de 7 gélules par
-      jour pour pouvoir bénéficier des avantages. <br />
+      jour pour pouvoir bénéficier des avantages. 
 
 
-      <br />
+      
 
 
-      Devoir gober 7 gélules par jour ? Non merci. <br />
+      Devoir gober 7 gélules par jour ? Non merci. 
 
 
-      <br />
+      
 
-       De plus, j'ai tendance à privilégier les produits naturels quand cela est possible. <br />
+       De plus, j'ai tendance à privilégier les produits naturels quand cela est possible. 
 
-      <br />
+      
 
 
       J'ai donc réfléchi à une solution permettant de se réalimenter de manière
@@ -127,42 +127,42 @@ stories:
         proviennent pas du lait.
     story: >-
       La lactofermentation<sup className="-yellow">&#9679;</sup> est une méthode
-      de conservation créant des aliments vivants.<br />
+      de conservation créant des aliments vivants.
 
 
-      <br />
+      
 
 
-      Oui, vous avez bien lu, "des aliments VIVANTS" ! <br />
+      Oui, vous avez bien lu, "des aliments VIVANTS" ! 
 
 
-      <br />
+      
 
 
       Bien sûr, ils ne sautillent pas en criant "Mangez-moi, mangez-moi !", hein
-      ! <br />
+      ! 
 
 
       Mais ils sont vivants grâce aux bonnes bactéries vivantes qui les
-      composent et qui sont évolutives.<br />
+      composent et qui sont évolutives.
 
 
-      <br />
+      
 
 
       Amoureuse et grande consommatrice de légumes de toutes sortes, j'ai décidé
       de lier ma découverte avec ce que j'aimais manger au quotidien.
 
 
-      Je me suis donc intéressée aux légumes lactofermentés. <br />
+      Je me suis donc intéressée aux légumes lactofermentés. 
 
 
       Les légumes lactofermentés sont créés par la transformation des sucres,
       contenus dans les légumes, en acide lactique par les bactéries lactiques.
-      <br />
+      
 
 
-      <br />
+      
 
 
       Ce procédé m'a fasciné ! Il regroupe des valeurs que je partage comme le
@@ -176,19 +176,19 @@ stories:
       val: En savoir plus sur les avantages des légumes vivants
     story: >-
       Le premier avantage, qui est ce pourquoi la fermentation a été créer, est
-      la conservation. <br />
+      la conservation. 
 
 
       En effet, des légumes correctement lactofermentés ont une durée de
       conservation très longue, sans avoir besoin d'énergie (conservation à
-      température ambiante et pas besoin de cuisson). <br />
+      température ambiante et pas besoin de cuisson). 
 
 
-      <br />
+      
 
 
       Les légumes lactofermentés sont également très intéressant pour leurs
-      bénéfices nutritionnels et sanitaires. <br />
+      bénéfices nutritionnels et sanitaires. 
 
 
       Des recherches scientifiques ont confirmé le lien entre la santé et les
@@ -198,22 +198,22 @@ stories:
 
       Ces probiotiques naturels peuvent reconstituer et diversifier le
       microbiote, qui peut être responsable de certaines maladies, troubles
-      digestives etc... <br />
+      digestives etc... 
 
 
-      <br />
+      
 
 
       Les avantages utilitaires vus, passons enfin à celui qui a provoqué ma
-      passion et l'envie de me plonger dans cette aventure : LE GOUT ! <br />
+      passion et l'envie de me plonger dans cette aventure : LE GOUT ! 
 
 
-      <br />
+      
 
 
       Se nourrir d’aliments bons pour notre organisme est bien, mais nous sommes
       d'accord que, si nous n'aimons pas le goût, nous ne remettrons pas notre
-      fourchette dans le plat ! <br />
+      fourchette dans le plat ! 
 
 
       J'ai eu donc un vrai plaisir à découvrir des saveurs nouvelles et
@@ -227,34 +227,34 @@ stories:
       val: Rencontrer nos producteurs
     story: >-
       C'est en voulant acheter des légumes lactofermentés en magasin que j'ai
-      été très déçu face à la pauvreté du choix. <br />
+      été très déçu face à la pauvreté du choix. 
 
 
       En effet, j'ai constaté que l'offre des produits lactofermentés se
       résumait à la choucroute déjà vu et revu, ou bien, à des produits
       industriels remplient de promesses mais pasteurisés (procédé qui supprime
       les probiotiques apportés par la fermentation et n'ont donc plus
-      d'intérêt) et emballés dans des pots en plastiques. <br />
+      d'intérêt) et emballés dans des pots en plastiques. 
 
 
-      <br />
+      
 
 
       Au temps vous dire que ni mes papilles gustatives ni mon esprit
-      éco-responsable ne voulaient acheter ces produits. <br />
+      éco-responsable ne voulaient acheter ces produits. 
 
 
-      <br />
+      
 
-       J'ai donc eu envie de partager mon expérience et mes recettes savoureuses et originales à travers une marque locale, Croq'biot. <br />
+       J'ai donc eu envie de partager mon expérience et mes recettes savoureuses et originales à travers une marque locale, Croq'biot. 
 
-      <br />
+      
 
 
       ![Preparation Croq'biot](/img/img_0477.png "Preparation Croq'biot")
 
 
-      Les légumes lactofermentés Croq'biot sont : <br />
+      Les légumes lactofermentés Croq'biot sont : 
 
 
       * Naturels
@@ -263,31 +263,32 @@ stories:
 
       * Bio
 
-      * Eco-responsable <br />
+      * Eco-responsable 
 
 
-      <br />
+      
 
 
+      <br/>
       Les pots Croq'biot sont des légumes lactofermentés gourmands, croquants et
-      originaux, prêt à être dévoré dans une salade ou un sandwich. <br />
+      originaux, prêt à être dévoré dans une salade ou un sandwich. 
 
 
-      <br />
+      
 
 
-      Les légumes lactofermentés Croq'biot sont uniques ! <br />
+      Les légumes lactofermentés Croq'biot sont uniques ! 
 
 
-      <br />
+      
 
 
-      Ils sont fabriqués et mis en bocal à la main ici-même, en Essonne. <br />
+      Ils sont fabriqués et mis en bocal à la main ici-même, en Essonne. 
 
 
       Et, dans un but de proposer des produits de qualités et pour soutenir
       l'économie locale, nous utilisons des légumes frais issus de l'agriculture
-      biologique provenant de producteurs français locaux. <br />
+      biologique provenant de producteurs français locaux. 
 
 
       Nous respectons également les saisons et nos légumes sont cueillis à
