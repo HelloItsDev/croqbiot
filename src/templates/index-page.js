@@ -25,16 +25,23 @@ export const IndexPageTemplate = ({
     <div className="main">
     <Section>
     <div className="grid">
-					<h1 className="col -block md-push-1 lg-push-2 title">
-						{header.firstLine}
-						<br />
-						{header.title}
-						<Typewriter
-							className="title-desc"
-							texts={[header.recette1, header.recette2, header.recette3]}
-						/>
-					</h1>
-				</div>
+      <div className="col -block md-push-1 lg-push-2">
+      <img 
+      className="logo-title"
+      src={!!header.logo.childImageSharp
+        ? header.logo.childImageSharp.fluid.src
+        : header.logo} 
+      alt={"logo croq'biot"}
+      />
+      <h1 className=" title">
+        {header.title}
+        <Typewriter
+          className="title-desc"
+          texts={[header.recette1, header.recette2, header.recette3]}
+        />
+      </h1>
+      </div>     
+    </div>
 
 				<div className="grid">
 					<div className="col md-7 lg-5 md-push-1 lg-push-2 lg-push-3">
@@ -190,6 +197,13 @@ query IndexPageTemplate {
   markdownRemark(frontmatter: {templateKey: {eq: "index-page"}}) {
       frontmatter {
         header {
+          logo {
+            childImageSharp {
+              fluid(maxWidth: 280, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
           title
           firstLine
           recette1
