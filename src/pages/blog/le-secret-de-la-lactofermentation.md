@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-actifBlog: true
-title: Le secret de la lactofermentation
+actifBlog: false
+title: Le secret de la lactofermentation !
 date: 2019-03-06T16:06:00.880Z
 description: >-
   Ah la lactofermentation ! Procédé utilisé depuis la nuit des temps mais
