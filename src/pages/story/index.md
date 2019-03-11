@@ -255,8 +255,7 @@ stories:
 
 
       Les légumes lactofermentés Croq'biot sont : 
-
-
+      
       * Naturels
 
       * Locaux

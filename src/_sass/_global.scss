@@ -890,6 +890,28 @@ button {
 	}
 }
 
+//story
+
+.story-page {
+	ul{
+		margin-top: -20px;
+		margin-left: 30px;
+	}
+}
+
+//blog
+
+.blog-page {
+	padding-top: 50px;
+	ul{
+		margin-top: -20px;
+		margin-left: 30px;
+	}
+	ol {
+		margin-left: 20px; 
+	}
+}
+
 // sad notice ☹️
 .sad-notice {
 	position: fixed;
