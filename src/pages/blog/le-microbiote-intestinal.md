@@ -67,13 +67,13 @@ Les raisons les plus courantes d'un déséquilibre du microbiote sont l'alimenta
 
 Bougez, respirez, marchez, faites une activité sportive, et pensez à prendre votre temps pendant les repas pour bien mâcher et profiter de vos aliments. <br /> Côté alimentation, les fibres contenues dans les légumes frais ou secs, les fruits et les céréales, sont le fuel de notre microbiote. <br /> Des chercheurs de l’Inra ont montré que plus l’apport en fibres est important, plus la diversité et le nombre d’espèces de bactéries sont importants. Et donc, le microbiote devient plus stable et équilibré.<br />
 
-2. Réensemencez avec de bons ferments lactiques : les probiotiques <br /> 
+2. **Réensemencez avec de bons ferments lactiques : les probiotiques** <br /> 
 
 <br /> Les probiotiques, qu'est-ce que c'est ?
 
 Selon l'Organisation Mondiale de la Sante, les probiotiques sont définis comme "des micro-organismes vivants, qui, lorsqu‘ils sont consommés en quantités adéquates, produisent un effet bénéfique pour la santé de l’hôte".
 
-**Pour en savoir plus sur les probiotiques**
+<a class="button"href="/blog"> Pour en savoir plus sur les probiotiques</a>
 
 Je vous encourage à privilégier les sources de probiotiques naturels, et non les gélules industrielles. <br /> Vous trouverez de très bonnes sources de probiotiques dans les produits fermentés comme le kéfir, le kombucha et les légumes lactofermentés.
 
