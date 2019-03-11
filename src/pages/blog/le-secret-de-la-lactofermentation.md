@@ -53,7 +53,7 @@ Parmi ces aliments, nous avons :
 La lactofermentation se caractérise par la formation d’acide lactique à partir des amidons naturels et des sucres présents dans les végétaux. <br />
 Cette méthode n’a rien à voir avec le lactose. Elle tient son nom de ses bactéries appelés bactéries lactiques (ou lactobacilles) et ne proviennent pas du lait.<br /> 
 
-![Bactéries lactiques ](/img/shutterstock_389522521.jpg "Bactéries lactiques ")
+![Bactéries lactiques ](/img/bacteries-lactiques.jpg "Bactéries lactiques ")
 
 <p class="legende">Bactéries lactobacilles </p>
 
