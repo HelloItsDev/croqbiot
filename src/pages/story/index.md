@@ -238,35 +238,24 @@ stories:
       d'intérêt) et emballés dans des pots en plastiques. 
 
 
-
-
-
       Au temps vous dire que ni mes papilles gustatives ni mon esprit
       éco-responsable ne voulaient acheter ces produits. 
 
-
-
-
        J'ai donc eu envie de partager mon expérience et mes recettes savoureuses et originales à travers une marque locale, Croq'biot. 
-
-
-
 
       ![Preparation Croq'biot](/img/img_0477.png "Preparation Croq'biot")
 
 
       Les légumes lactofermentés Croq'biot sont : 
-      
-      * Naturels
+
+
+      * Faits à la main
 
       * Locaux
 
-      * Bio
+      * Biologiques
 
-      * Eco-responsable 
-
-
-
+      * Eco-responsables
 
 
       <br/> Les pots Croq'biot sont des légumes lactofermentés gourmands,
@@ -274,13 +263,7 @@ stories:
       sandwich. 
 
 
-
-
-
       Les légumes lactofermentés Croq'biot sont uniques ! 
-
-
-
 
 
       Ils sont fabriqués et mis en bocal à la main ici-même, en Essonne. 
