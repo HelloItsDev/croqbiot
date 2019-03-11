@@ -40,7 +40,7 @@ stories:
       prendre soin de son intestin qu'est née le projet Croq'biot. 
 
 
-      
+
 
 
       Lors d'un voyage en Asie, qui a été compliqué digestivement parlant, je me
@@ -60,6 +60,7 @@ stories:
       val: blalabla
   - cta:
       actif: true
+      link: /blog/le-microbiote-intestinal/
       val: En savoir plus sur le microbiote
     story: >-
       Le microbiote, anciennement appelé la flore intestinale, est un organe
@@ -73,12 +74,12 @@ stories:
       actif: true
       val: Le micro.. quoi ?
   - story: >-
-      
+
 
 
       Une des solutions pour prendre soin de son microbiote est de le
       réensemencer avec de bons ferments lactiques, aussi appelé probiotiques.
-      
+
 
 
       Aujourd'hui, la majorité des personnes s'alimente en probiotiques par des
@@ -94,17 +95,17 @@ stories:
       jour pour pouvoir bénéficier des avantages. 
 
 
-      
+
 
 
       Devoir gober 7 gélules par jour ? Non merci. 
 
 
-      
+
 
        De plus, j'ai tendance à privilégier les produits naturels quand cela est possible. 
 
-      
+
 
 
       J'ai donc réfléchi à une solution permettant de se réalimenter de manière
@@ -130,13 +131,13 @@ stories:
       de conservation créant des aliments vivants.
 
 
-      
+
 
 
       Oui, vous avez bien lu, "des aliments VIVANTS" ! 
 
 
-      
+
 
 
       Bien sûr, ils ne sautillent pas en criant "Mangez-moi, mangez-moi !", hein
@@ -147,7 +148,7 @@ stories:
       composent et qui sont évolutives.
 
 
-      
+
 
 
       Amoureuse et grande consommatrice de légumes de toutes sortes, j'ai décidé
@@ -159,10 +160,10 @@ stories:
 
       Les légumes lactofermentés sont créés par la transformation des sucres,
       contenus dans les légumes, en acide lactique par les bactéries lactiques.
-      
 
 
-      
+
+
 
 
       Ce procédé m'a fasciné ! Il regroupe des valeurs que je partage comme le
@@ -184,7 +185,7 @@ stories:
       température ambiante et pas besoin de cuisson). 
 
 
-      
+
 
 
       Les légumes lactofermentés sont également très intéressant pour leurs
@@ -201,14 +202,14 @@ stories:
       digestives etc... 
 
 
-      
+
 
 
       Les avantages utilitaires vus, passons enfin à celui qui a provoqué ma
       passion et l'envie de me plonger dans cette aventure : LE GOUT ! 
 
 
-      
+
 
 
       Se nourrir d’aliments bons pour notre organisme est bien, mais nous sommes
@@ -237,18 +238,18 @@ stories:
       d'intérêt) et emballés dans des pots en plastiques. 
 
 
-      
+
 
 
       Au temps vous dire que ni mes papilles gustatives ni mon esprit
       éco-responsable ne voulaient acheter ces produits. 
 
 
-      
+
 
        J'ai donc eu envie de partager mon expérience et mes recettes savoureuses et originales à travers une marque locale, Croq'biot. 
 
-      
+
 
 
       ![Preparation Croq'biot](/img/img_0477.png "Preparation Croq'biot")
@@ -266,21 +267,21 @@ stories:
       * Eco-responsable 
 
 
-      
 
 
-      <br/>
-      Les pots Croq'biot sont des légumes lactofermentés gourmands, croquants et
-      originaux, prêt à être dévoré dans une salade ou un sandwich. 
+
+      <br/> Les pots Croq'biot sont des légumes lactofermentés gourmands,
+      croquants et originaux, prêt à être dévoré dans une salade ou un
+      sandwich. 
 
 
-      
+
 
 
       Les légumes lactofermentés Croq'biot sont uniques ! 
 
 
-      
+
 
 
       Ils sont fabriqués et mis en bocal à la main ici-même, en Essonne. 
