@@ -53,7 +53,7 @@ Parmi ces aliments, nous avons :
 La lactofermentation se caractérise par la formation d’acide lactique à partir des amidons naturels et des sucres présents dans les végétaux. <br />
 Cette méthode n’a rien à voir avec le lactose. Elle tient son nom de ses bactéries appelés bactéries lactiques (ou lactobacilles) et ne proviennent pas du lait.<br /> 
 
-![Bactéries lactiques ](/img/shutterstock_389522521.jpg "Bactéries lactiques ")
+![Bactéries lactiques ](/img/bacteries-lactiques.jpg "Bactéries lactiques ")
 
 <p class="legende">Bactéries lactobacilles </p>
 
@@ -71,4 +71,4 @@ Les légumes lactofermentés Croq'biot sont fabriquées avec des ingrédients na
 <br />
  Grâce à la qualité des produits utilisés, les légumes lactofermentés Croq'biot sont riches en vitamines, minéraux, enzymes et probiotiques naturels. <br /> 
 
-<a class="button"href="/blog">En savoir plus sur les avantages des légumes lactofermentés</a>
+<a class="button" href="/blog">En savoir plus sur les avantages des légumes lactofermentés</a>
