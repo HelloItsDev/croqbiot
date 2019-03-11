@@ -71,10 +71,6 @@ C’est lors de ce processus de fermentation que se créer de bonnes bactéries 
 
 <br />
 
-**En savoir plus sur les probiotiques** <br />
-
-<br />
-
 À savoir que, parmi tous les acides communs à la conservation des aliments, l'acide lactique est celui qui est le plus facilement utilisé par l'organisme et ne provoque pas d'effets trop acidifiant.
 
 
