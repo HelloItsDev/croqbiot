@@ -71,4 +71,4 @@ Les légumes lactofermentés Croq'biot sont fabriquées avec des ingrédients na
 <br />
  Grâce à la qualité des produits utilisés, les légumes lactofermentés Croq'biot sont riches en vitamines, minéraux, enzymes et probiotiques naturels. <br /> 
 
-<a class="button"href="/blog">En savoir plus sur les avantages des légumes lactofermentés</a>
+<a class="button" href="/blog">En savoir plus sur les avantages des légumes lactofermentés</a>
