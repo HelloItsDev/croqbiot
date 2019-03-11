@@ -9,7 +9,7 @@ description: >-
 readingTime: 3 minutes
 BlogImage:
   alt: microbiote intestinal
-  img: /img/side-strip-2-copy-21092017082050-1000x0.jpg
+  img: /img/microbiote-intestinal.jpg
 tags:
   - microbiote
   - intestinal
@@ -55,7 +55,7 @@ De nombreux facteurs peuvent déséquilibrer le microbiote intestinal : on parle
 
 Un déséquilibre du microbiote peut se manifester par des maux de ventre, des troubles digestifs, des sautes d'humeur, de la fatigue etc…<br /> Des études ont montré qu'une dysbiose pouvait être le déclencheur de certaines maladies.
 
-![Les causes d'un microbiote déséquilibré](/img/les-causes-d-un-microbiote-1-.png "Les causes d'un microbiote déséquilibré")
+![Les causes d'un microbiote déséquilibré](/img/les-causes-d-un-microbiote-2-.png "Les causes d'un microbiote déséquilibré")
 
 Les raisons les plus courantes d'un déséquilibre du microbiote sont l'alimentation et un traitement antibiotique. <br /> À savoir qu'un traitement antibiotique réduit la qualité et la quantité du microbiote sur plusieurs jours à plusieurs semaines.
 
