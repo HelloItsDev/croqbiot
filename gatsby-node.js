@@ -46,7 +46,7 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
-    // Tag pages:
+    /* // Tag pages:
     let tags = []
     // Iterate through each post, putting all found tags into `tags`
     posts.forEach(edge => {
@@ -68,7 +68,7 @@ exports.createPages = ({ actions, graphql }) => {
           tag,
         },
       })
-    })
+    }) */
   })
 }
 
