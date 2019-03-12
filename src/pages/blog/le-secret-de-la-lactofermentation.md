@@ -5,7 +5,7 @@ title: Le secret de la lactofermentation
 date: 2019-03-06T16:06:00.880Z
 description: >-
   Ah la lactofermentation ! Procédé utilisé depuis la nuit des temps mais
-  abandonné pour l’industrie. Faisons nos petits scientifiques et voyons comme
+  abandonné pour l’industrie. Faisons nos petits scientifiques et voyons comment
   cela fonctionne.
 readingTime: 1 minute
 BlogImage:
