@@ -10,7 +10,7 @@ description: >
 readingTime: 4 minutes
 BlogImage:
   alt: Les bienfaits des légumes lactofermentés
-  img: /img/probiotiques2.png
+  img: /img/chou-rouge-bienfaits.jpg
 ---
 Une fois ajouter à votre alimentation quotidienne, cet aliment aurait une incidence sur l’absorption des vitamines et minéraux, votre digestion, votre baisse de cholestérol, permettrait d’équilibrer votre glycémie, aiderait à la perte de poids, à la désintoxication de votre corps, renforcerait votre système immunitaire… et bien plus encore !
 
