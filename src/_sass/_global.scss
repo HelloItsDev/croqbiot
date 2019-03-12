@@ -533,20 +533,38 @@ img {
 
 //BlogRoll
 
-.main{
+
+
+.blog-roll{
+	padding-top: 100px;
+	.header {
+		margin-bottom: 50px;
+		@media (min-width: 800px) {
+			margin-bottom: 70px;
+		}
+	}
 	.col{
 		.article{
 			display: flex;
 			align-items: flex-start;
 			text-decoration: unset;
 			margin-bottom: 40px;
+			@media (max-width: 800px) {
+				margin-bottom: 20px;
+			}
+			
+			h2 {
+				color: hsl(0,0%,13%);
+				font-weight: 700;
+			}
 			h2,p {
 				margin-top: 0px;
 				margin-bottom: 10px;
 			}
 			.description{
-				font-size: 16px;
-				color: #0000008a;
+				font-size: 18px;
+				color: hsl(0,0%,45%);
+				font-weight: 400;
 				line-height: 24px;
 			}
 			img{
@@ -555,6 +573,10 @@ img {
 			}
 			.info{
 				margin-left: 20px;
+				p span {
+					color: hsl(0,0%,37%);
+				}
+				
 			}
 			@media (max-width: 800px) {
 				h2,p {

@@ -8,9 +8,9 @@ export default class BlogIndexPage extends React.Component {
     
   return (
       <Layout>
-          <div className="main">
-            <div className="grid">
-                <h1 className="col -block md-push-1 lg-push-1 title" >
+          <div className="main blog-roll">
+            <div className="grid header">
+                <h1 className="col -block md-push-1 lg-push-2 title" >
                   Nos derniers articles <br />
                   <span className="salmon" >À dévorer. </span>
                 </h1>
