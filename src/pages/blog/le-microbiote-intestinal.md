@@ -73,7 +73,7 @@ Bougez, respirez, marchez, faites une activité sportive, et pensez à prendre v
 
 Selon l'Organisation Mondiale de la Sante, les probiotiques sont définis comme "des micro-organismes vivants, qui, lorsqu‘ils sont consommés en quantités adéquates, produisent un effet bénéfique pour la santé de l’hôte".
 
-<a class="button"href="/blog"> Pour en savoir plus sur les probiotiques</a>
+<a class="button" href="/blog"> Pour en savoir plus sur les probiotiques</a>
 
 Je vous encourage à privilégier les sources de probiotiques naturels, et non les gélules industrielles. <br /> Vous trouverez de très bonnes sources de probiotiques dans les produits fermentés comme le kéfir, le kombucha et les légumes lactofermentés.
 
