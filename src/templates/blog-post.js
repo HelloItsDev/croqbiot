@@ -20,12 +20,12 @@ export const BlogPostTemplate = ({
     <section className="main blog-page">
       {helmet || ''}
       <div className="grid">
-          <h1 className="col-block md-push-1 lg-push-1 title">
+          <h1 className="col-block md-push-1 lg-push-2 title">
             {title}
           </h1>
       </div>
       <div className="grid" >
-        <div className="md-8 lg-6 -block md-push-1 lg-push-1" >
+        <div className="md-8 lg-6 -block md-push-1 lg-push-3" >
           <p>{description}</p>
           <PostContent content={content} />
         </div>

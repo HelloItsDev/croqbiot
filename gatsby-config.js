@@ -75,7 +75,32 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
-    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        output: `/sitemap-2.xml`,
+        // Exclude specific pages or groups of pages using glob parameters
+        // See: https://github.com/isaacs/minimatch
+        // The example below will exclude the single `path/to/page` and all routes beginning with `category`
+        exclude: ["/tags/*", "/contact/*"],
+        query: `
+          {
+            site {
+              siteMetadata {
+                siteUrl
+              }
+            }
+  
+            allSitePage {
+              edges {
+                node {
+                  path
+                }
+              }
+            }
+        }`
+      }
+    },
     {
       resolve:'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
