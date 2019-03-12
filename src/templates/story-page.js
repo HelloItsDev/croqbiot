@@ -8,12 +8,7 @@ import { Section } from '../components/Section/Section';
 import { Contact } from '../components/Contact/Contact';
 import { Banner } from '../components/Banner/Banner';
 import { FakeImg } from '../components/FakeImg/FakeImg';
-
-
-import showdown from 'showdown'
-
-
-const converter = new showdown.Converter();
+import ReactMarkdown from 'react-markdown/with-html'
 
 export const StoryPageTemplate = ({
   storyHeader,
@@ -50,7 +45,13 @@ export const StoryPageTemplate = ({
               )}
             </div>
             <div className="col md-7 lg-5 md-push-1 lg-push-3" >
-              <p className="measure" dangerouslySetInnerHTML={{ __html: converter.makeHtml(story.story) }}></p>
+              <p className="measure">
+              <ReactMarkdown
+                  source={story.story}
+                  escapeHtml={false}
+                ></ReactMarkdown>
+                
+              </p>
               {story.cta && story.cta.actif && (
                 <p>
                     <Link to={story.cta.link} className="button">{story.cta.val}</Link>
