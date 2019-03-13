@@ -174,6 +174,7 @@ stories:
       val: 'La lactofermentation, qu''est-ce que c''est ?'
   - cta:
       actif: true
+      link: /blog/les-bienfaits-des-légumes-lactofermentés/
       val: En savoir plus sur les avantages des légumes vivants
     story: >-
       Le premier avantage, qui est ce pourquoi la fermentation a été créer, est
