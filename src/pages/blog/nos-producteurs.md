@@ -60,6 +60,6 @@ C’est une coopérative d’agriculteurs spécialisée dans les produits locaux
 ## Pour les agrumes et les épices
 
 Chez Croq’biot, nous voulons être 100% transparent.
- <br /> Il n’y a pas de production locale pour les agrumes et les épices. Nous nous approvisionnons à la Bioccop, où nous sommes convaincus de la qualité et du respect des produits.
+ <br /> Il n’y a pas de production locale pour les agrumes et les épices. Nous nous approvisionnons à la Biocoop, où nous sommes convaincus de la qualité et du respect des produits.
 
 ![](/img/biocoop-logo.jpg)
