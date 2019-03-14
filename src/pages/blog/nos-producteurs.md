@@ -55,7 +55,7 @@ Entreprise familiale, Fabien cultive avec ses frères et sa mère.
 
 C’est une coopérative d’agriculteurs spécialisée dans les produits locaux (en Ile-De-France) et biologiques. 
 <br /> Elle nous permet de compléter nos besoins en légumes frais et bio pour répondre à vos attentes. 
-<br /> Grâce à eux, nous pouvons participer à la pérennité des agricultures locales et bio en privilégiant l’approvisionnement chez les agriculteurs qui ont des difficultés a écoule leurs légumes.
+<br /> Grâce à eux, nous pouvons participer à la pérennité des agricultures locales et bio en privilégiant l’approvisionnement chez les agriculteurs qui ont des difficultés à écouler leurs légumes.
 
 ## Pour les agrumes et les épices
 
