@@ -1,7 +1,6 @@
 ---
 templateKey: index-page
 header:
-  logo: /img/croqbiot250-.png
   firstLine: Croq'biot
   recette1: Bio
   recette2: Locaux
@@ -19,7 +18,7 @@ story:
     img: /img/img_0364v2.jpg
   imageVertical:
     alt: Fondatrice Croq'biot
-    img: /img/img_0413v2.jpg
+    img: /img/anais-c.jpg
   story1: >-
     Chez Croq'biot, nous nous engageons à produire des aliments vivants pour
     bien vivre. <br />
@@ -34,8 +33,8 @@ story:
 findashop:
   cta: Voir les magasins
   description: >-
-    Vous pourrez bientôt acheter les légumes lactofermentés Croq'biot dans les
-    épiceries d'Ile-de-France.
+    Vous pourrez bientôt trouver nos légumes lactofermentés dans des épiceries à
+    Paris.
   footer: Manger vivant pour un ventre souriant.
   heading: Manger vivant
   image:
@@ -49,7 +48,7 @@ product:
     sandwich.
   image:
     alt: Recettes en prep
-    img: /img/prep.png
+    img: /img/patience.jpg
   message: |-
     Nos recettes sont en cours de préparation.
 
