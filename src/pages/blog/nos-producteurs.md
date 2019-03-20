@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-actifBlog: true
+actifBlog: false
 title: Nos producteurs
 date: 2019-03-13T16:09:31.745Z
 description: >-
