@@ -2,7 +2,7 @@
 templateKey: blog-post
 actifBlog: true
 title: Le microbiote intestinal
-date: 2019-06-03T08:04:00.000Z
+date: 2019-03-03T09:04:00.000Z
 description: >-
   Le microbiote intestinal regroupe l’ensemble des microbes présents dans notre
   intestin. Souvent abandonné, il est essentiel à notre bien-être et santé.
