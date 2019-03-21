@@ -6,6 +6,7 @@ header:
   recette2: Locaux
   recette3: Eco-responsables
   title: Légumes Vivants
+  logo: /img/croqbiot250-.png
 story:
   cta: Lire notre histoire
   footnote: >-
