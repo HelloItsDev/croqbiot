@@ -30,7 +30,7 @@ Je m'explique :
 
 En cas de contamination des végétaux pendant leur croissance ou transport, les bactéries pathogènes (Salmonella, Escherichia coli, listeria etc..) ne survivent pas dans un environnement de lactofermentation. Ce qui veut que malgré une de mauvaises bactéries sur les légumes, la lactofermentation détruits ces bactéries et rend ces aliments sans danger, contrairement si vous les aviez consommés crus.  
 
-**2. Permet une meilleure stimulation et disponibilités des micronutriments**
+**2. Permet une meilleure stimulation et disponibilité des micronutriments**
 
 Lorsque vous achetez vos légumes au supermarché, je ne pense pas vous apprendre qu’ils ont été cueillis il y a un petit moment et souvent en début de leur croissance pour qu’ils ne s’abiment ou ne pourrissent pas entre le transport et la mise en rayon dans les supermarchés. C’est cette recette qui donne des légumes sans vitamines et minéraux avec peu de goût. 
 <br /> C'est pour cela que nos produits Croq'biot sont fabriqués à partir de légumes de saisons cueillis à maturation, et mis en bocal peu de temps après la récolte des légumes afin de garder tous les bienfaits nutritifs ainsi que les véritables saveurs des légumes. 
