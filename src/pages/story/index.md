@@ -224,7 +224,7 @@ stories:
 
        J'ai donc eu envie de partager mon expérience et mes recettes savoureuses et originales à travers une marque locale, Croq'biot. 
 
-      ![Preparation Croq'biot](/img/img_0477.png "Preparation Croq'biot")
+      ![Preparation Croq'biot](/img/img_0477.jpg "Preparation Croq'biot")
 
 
       Les légumes lactofermentés Croq'biot sont : 
