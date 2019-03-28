@@ -40,7 +40,7 @@ stories:
       prendre soin de son intestin qu'est née le projet Croq'biot. 
 
 
-      ![Logo](/img/logo_croqbiot.png "Logo")
+      ![Logo](/img/logocroqbiot.png "Logo")
 
 
       Lors d'un voyage en Asie, qui a été compliqué digestivement parlant, je me
