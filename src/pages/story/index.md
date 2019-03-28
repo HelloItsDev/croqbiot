@@ -162,6 +162,10 @@ stories:
       link: /blog/les-bienfaits-des-légumes-lactofermentés/
       val: En savoir plus sur les avantages des légumes vivants
     story: >-
+      ![Plat avec légumes fermentés](/img/aliments-fermentés.jpg "Plat avec
+      légumes fermentés")
+
+
       Le premier avantage, qui est ce pourquoi la fermentation a été créer, est
       la conservation. 
 
@@ -197,9 +201,6 @@ stories:
       J'ai eu donc un vrai plaisir à découvrir des saveurs nouvelles et
       complexes liées à la lactofermentation des légumes, acidulés et frais qui
       s'agrémentent parfaitement à tout type de plat.
-
-
-      ![Repas fermenté](/img/aliments-fermentés.jpg "Repas fermenté")
     title:
       actif: true
       val: Les avantages de manger vivant
