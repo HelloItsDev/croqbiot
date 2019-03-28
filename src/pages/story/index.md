@@ -71,7 +71,8 @@ stories:
       très précieux pour la digestion et le transit. 
 
 
-      ![](/img/microbioteintestinal.png)
+      ![Microbiote intestinal](/img/microbioteintestinal.png "Microbiote
+      intestinal")
 
 
       Il est souvent très mal mené par l'hygiène de vie et l'alimentation
@@ -121,7 +122,7 @@ stories:
         de ses bactéries appelés bactéries lactiques (lactobacilles) et ne
         proviennent pas du lait.
     story: >-
-      ![](/img/aliments-fermentes1.jpg)
+      ![Aliments fermentés](/img/aliments-fermentes1.jpg "Aliments fermentés")
 
 
       La lactofermentation<sup className="-yellow">&#9679;</sup> est une méthode
@@ -198,7 +199,7 @@ stories:
       s'agrémentent parfaitement à tout type de plat.
 
 
-      ![](/img/aliments-fermentés.jpg)
+      ![Repas fermenté](/img/aliments-fermentés.jpg "Repas fermenté")
     title:
       actif: true
       val: Les avantages de manger vivant
@@ -253,7 +254,7 @@ stories:
       biologique provenant de producteurs français locaux. 
 
 
-      ![](/img/mangeons-locale.jpg)
+      ![Mangeons local](/img/mangeons-locale.jpg "Mangeons local")
 
 
       Nous respectons également les saisons et nos légumes sont cueillis à
