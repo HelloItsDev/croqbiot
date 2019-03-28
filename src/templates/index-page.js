@@ -50,7 +50,7 @@ export const IndexPageTemplate = ({
 						<p className="measure" dangerouslySetInnerHTML={{ __html: story.story2 }}></p>
 
 						<p>
-							<Link to="/story" className="button">
+							<Link to="/notre-histoire" className="button">
 								{story.cta}
 							</Link>
 						</p>

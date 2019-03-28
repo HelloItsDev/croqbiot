@@ -29,7 +29,7 @@ const Navbar = class extends React.Component {
   render() {
     const links = [
 			{ name: 'Home', to: '/' },
-			{ name: 'Histoire', to: '/story' },
+			{ name: 'Histoire', to: '/notre-histoire' },
 			{ name: 'Blog', to: '/blog' },
 			{ name: 'Boutiques', to: '/shops' },
 			{ name: 'Acheter en ligne', to: '/buy' }

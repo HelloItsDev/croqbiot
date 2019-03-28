@@ -39,12 +39,12 @@ export const StoryPageTemplate = ({
         {stories.map((story) => (
           <Aux>
             <div className="grid">
-            <div className="col md-7 lg-5 md-push-1 lg-push-3" >
+            <div className="col md-7 lg-5 md-push-1 lg-push-2" >
               {story.title && story.title.actif && (
                 <h2>{story.title.val}</h2>
               )}
             </div>
-            <div className="col md-7 lg-5 md-push-1 lg-push-3" >
+            <div className="col  lg-6 md-push-1 lg-push-2" >
               <p className="measure">
               <ReactMarkdown
                   source={story.story}
@@ -60,7 +60,7 @@ export const StoryPageTemplate = ({
               )}
             </div>
             {story.footnote && story.footnote.actif && (
-              <div className="col md-3 lg-2" >
+              <div className="col md-push-1 lg-2 lg-push-0" >
                 <p className="small faded footnote -yellow" data-id="&#9679;">{story.footnote.val}</p>                
               </div>
             )}

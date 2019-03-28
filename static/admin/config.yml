@@ -37,7 +37,7 @@ collections:
           - {label: Banner, name: banner, widget: object, fields: [{label: computer Image, name: image, widget:  object, fields: [{label: Image, name: img, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: phone Image, name: mobileImage, widget:  object, fields: [{label: Image, name: img, widget: image}, {label: Alt, name: alt, widget: string}]}]}
           - {label: Testimonial, name: testimonial, widget: object, fields: [{label: Citation, name: quote, widget: markdown},{label: De, name: from, widget: markdown}]}
           - {label: contact, name: contact, widget: object, fields: [ {label: heading, name: heading, widget: string},{label: subheading, name: subheading, widget: string}, {label: mail, name: mail, widget: "markdown"},{label: instagram, name: instagram, widget: string},{label: facebook, name: facebook, widget: string}]}
-      - file: "src/pages/story/index.md"
+      - file: "src/pages/notre-histoire/index.md"
         label: "Story Page"
         name: "Story Page"
         fields:
