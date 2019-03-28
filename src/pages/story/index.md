@@ -254,7 +254,7 @@ stories:
       biologique provenant de producteurs français locaux. 
 
 
-      ![Mangeons local](/img/mangeons-locale.jpg "Mangeons local")
+      ![Mangeons local IDF](/img/mangeons-locale.jpg "Mangeons local IDF")
 
 
       Nous respectons également les saisons et nos légumes sont cueillis à
