@@ -205,7 +205,6 @@ query IndexPageTemplate {
             }
           }
           title
-          firstLine
           recette1
           recette2
           recette3
