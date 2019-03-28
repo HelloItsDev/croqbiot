@@ -40,7 +40,7 @@ stories:
       prendre soin de son intestin qu'est née le projet Croq'biot. 
 
 
-
+      ![Logo](/img/logo_croqbiot.png "Logo")
 
 
       Lors d'un voyage en Asie, qui a été compliqué digestivement parlant, je me
@@ -51,13 +51,17 @@ stories:
       cerveau et notre intestin que cela m'a fait prendre conscience de
       l'importance de prendre soin de son intestin, et plus particulièrement de
       son microbiote intestinal.
+
+
+      ![Connection cerveau-intestins](/img/connection-cerveau_intestins.png
+      "Connection cerveau-intestins")
     testimonial:
       actif: false
       from: David Rains Wallace
       quote: La fermentation est peut-être une meilleure invention que le feu.
     title:
       actif: false
-      val: blalabla
+      val: Intro
   - cta:
       actif: true
       link: /blog/le-microbiote-intestinal/
@@ -67,6 +71,9 @@ stories:
       très précieux pour la digestion et le transit. 
 
 
+      ![](/img/microbioteintestinal.png)
+
+
       Il est souvent très mal mené par l'hygiène de vie et l'alimentation
       d'aujourd'hui (additifs alimentaires, édulcorants, antibiotiques, alcool
       etc..), et peut subir un déséquilibre.
@@ -74,12 +81,8 @@ stories:
       actif: true
       val: Le micro.. quoi ?
   - story: >-
-
-
-
       Une des solutions pour prendre soin de son microbiote est de le
       réensemencer avec de bons ferments lactiques, aussi appelé probiotiques.
-
 
 
       Aujourd'hui, la majorité des personnes s'alimente en probiotiques par des
@@ -95,18 +98,9 @@ stories:
       jour pour pouvoir bénéficier des avantages. 
 
 
-
-
-
       Devoir gober 7 gélules par jour ? Non merci. 
 
-
-
-
        De plus, j'ai tendance à privilégier les produits naturels quand cela est possible. 
-
-
-
 
       J'ai donc réfléchi à une solution permettant de se réalimenter de manière
       naturelle en probiotiques sans prendre de compléments alimentaires en
@@ -127,17 +121,14 @@ stories:
         de ses bactéries appelés bactéries lactiques (lactobacilles) et ne
         proviennent pas du lait.
     story: >-
+      ![](/img/aliments-fermentes1.jpg)
+
+
       La lactofermentation<sup className="-yellow">&#9679;</sup> est une méthode
       de conservation créant des aliments vivants.
 
 
-
-
-
       Oui, vous avez bien lu, "des aliments VIVANTS" ! 
-
-
-
 
 
       Bien sûr, ils ne sautillent pas en criant "Mangez-moi, mangez-moi !", hein
@@ -146,9 +137,6 @@ stories:
 
       Mais ils sont vivants grâce aux bonnes bactéries vivantes qui les
       composent et qui sont évolutives.
-
-
-
 
 
       Amoureuse et grande consommatrice de légumes de toutes sortes, j'ai décidé
@@ -160,10 +148,6 @@ stories:
 
       Les légumes lactofermentés sont créés par la transformation des sucres,
       contenus dans les légumes, en acide lactique par les bactéries lactiques.
-
-
-
-
 
 
       Ce procédé m'a fasciné ! Il regroupe des valeurs que je partage comme le
@@ -186,9 +170,6 @@ stories:
       température ambiante et pas besoin de cuisson). 
 
 
-
-
-
       Les légumes lactofermentés sont également très intéressant pour leurs
       bénéfices nutritionnels et sanitaires. 
 
@@ -203,14 +184,8 @@ stories:
       digestives etc... 
 
 
-
-
-
       Les avantages utilitaires vus, passons enfin à celui qui a provoqué ma
       passion et l'envie de me plonger dans cette aventure : LE GOUT ! 
-
-
-
 
 
       Se nourrir d’aliments bons pour notre organisme est bien, mais nous sommes
@@ -221,6 +196,9 @@ stories:
       J'ai eu donc un vrai plaisir à découvrir des saveurs nouvelles et
       complexes liées à la lactofermentation des légumes, acidulés et frais qui
       s'agrémentent parfaitement à tout type de plat.
+
+
+      ![](/img/aliments-fermentés.jpg)
     title:
       actif: true
       val: Les avantages de manger vivant
@@ -273,6 +251,9 @@ stories:
       Et, dans un but de proposer des produits de qualités et pour soutenir
       l'économie locale, nous utilisons des légumes frais issus de l'agriculture
       biologique provenant de producteurs français locaux. 
+
+
+      ![](/img/mangeons-locale.jpg)
 
 
       Nous respectons également les saisons et nos légumes sont cueillis à
