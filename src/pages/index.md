@@ -1,12 +1,11 @@
 ---
 templateKey: index-page
 header:
-  firstLine: Croq'biot
+  logo: /img/croqbiot250-.png
   recette1: Bio
   recette2: Locaux
   recette3: Eco-responsables
   title: Légumes Vivants
-  logo: /img/croqbiot250-.png
 story:
   cta: Lire notre histoire
   footnote: >-
@@ -34,14 +33,14 @@ story:
 findashop:
   cta: Voir les magasins
   description: >-
-    Vous pourrez bientôt trouver nos légumes lactofermentés dans des épiceries à
+    Vous pourrez bientôt trouver nos légumes lactofermentés dans des magasins à
     Paris.
-  footer: Manger vivant pour un ventre souriant.
-  heading: Manger vivant
+  footer: Manger vivant pour un ventre souriant
+  heading: Nos légumes lactofermentés Croq'biot
   image:
     alt: Choux rouge Croq'biot
     img: /img/shutterstock_346508717_bocaux_chou_rouge_lactofermente.jpg
-  subheading: Trouver nos légumes lactofermentés Croq'biot
+  subheading: 'Où nous trouver ? '
 product:
   description: >-
     Nos légumes lactofermentés Croq'biot sont croquants et savoureux. Ils seront
