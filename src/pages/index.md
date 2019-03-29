@@ -54,7 +54,7 @@ product:
 
     Nous vous informerons lorsqu'elles seront diponibles.
   status: BIENTOT DISPONIBLE
-  subTitle: 500 g
+  subTitle: '- G'
   title: Légumes lactofermentés Croq'biot
 banner:
   image:
