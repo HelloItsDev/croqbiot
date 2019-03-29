@@ -48,7 +48,7 @@ product:
     sandwich.
   image:
     alt: Recettes en prep
-    img: /img/goodthings.png
+    img: /img/bocal.png
   message: |-
     Nos recettes sont en cours de préparation.
 
