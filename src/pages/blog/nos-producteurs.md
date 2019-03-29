@@ -24,42 +24,46 @@ La ferme est située au cœur des Yvelines, aux Mureaux (78). Elle cultive de pl
 
 L’exploitation est dirigée par 3 maraichers dont 2 sont nos producteurs : Xavier Dupuis et la famille Frémin. 
 
-**Xavier Dupuis**
+**Xavier Dupuis, le roi de la carotte** 
 
 ![Xavier Dupuis](/img/xavier-dupuis.jpg "Xavier Dupuis")
 
-<p class="legende"> Source : <a href="/lien"> www.mangeonslocal-en-idf.com</a></p>
+<p class="legende"> Source : <a href="http://www.mangeonslocal-en-idf.com"> www.mangeonslocal-en-idf.com</a></p>
+
+Voilà, Xavier !
 
 Ancien ingénieur agronome, il a travaillé dans un organisme de certification biologique durant 13 années.
- <br /> En 2010, il commence sa production de légumes biologiques. Aujourd’hui, Xavier cultive 4 hectares de légumes varie en fonction du rythme des saisons.
-<br /> 
-Son légume phare ? La carotte !
-<br /> C’est elle que vous retrouverez dans la recette Carotte – Gingembre – Curcumin de Croq’biot.
+ <br />En 2010, il créer l’unique légumerie BIO d’Ile-de-France, avec d’autres agriculteurs, qui permet aux cantines scolaires de la région parisienne d'avoir des produits frais et BIO !
 
-**Fabien Frémin**
+Aujourd’hui, Xavier cultive avec passion 4 hectares de légumes qui varie selon les saisons. <br />
+Son légume phare ? La carotte !
+
+**Fabien Frémin, une passion familiale**
 
 ![Fabien Frémin](/img/fabien-fremin.jpg "Fabien Frémin")
 
-<p class="legende"> Source : <a href="/lien"> www.mangeonslocal-en-idf.com</a></p>
+<p class="legende"> Source : <a href="http://www.mangeonslocal-en-idf.com"> www.mangeonslocal-en-idf.com</a></p>
 
-Entreprise familiale, Fabien cultive avec ses frères et sa mère. 
-<br /> Aujourd’hui, il cultive des légumes et des fruits biologiques sur 40 hectares.
- <br /> Son légume phare ? La betterave !
-<br /> C’est elle que vous retrouverez dans la recette Betterave – Cumin de Croq’biot.
+Nous vous présentons Fabien !
 
-## 
+Installé depuis 2011 à la Ferme de la Haye, il produit, en famille, des légumes et fruits BIO.
+ <br />Père de 3 enfants, il est entouré de sa femme Aurélie et de son frère Antoine pour la production et la gestion de la ferme. 
+
+Aujourd’hui, ils cultivent ensemble 20 hectares dont la moitié est consacré au maraichage.
+ <br />Son légume phare ? La betterave !
+
+<br />
 
 ## Bio Ile-De-France
 
 ![Gab IDF](/img/gabidf.jpg "Gab IDF")
 
 C’est une coopérative d’agriculteurs spécialisée dans les produits locaux (en Ile-De-France) et biologiques. 
-<br /> Elle nous permet de compléter nos besoins en légumes frais et bio pour répondre à vos attentes. 
-<br /> Grâce à eux, nous pouvons participer à la pérennité des agricultures locales et bio en privilégiant l’approvisionnement chez les agriculteurs qui ont des difficultés à écouler leurs légumes.
+<br /> Elle nous permet de compléter nos besoins en légumes frais et BIO pour répondre à vos attentes. 
 
-## Pour les agrumes et les épices
+## Pour les épices
 
-Chez Croq’biot, nous voulons être 100% transparent.
- <br /> Il n’y a pas de production locale pour les agrumes et les épices. Nous nous approvisionnons à la Biocoop, où nous sommes convaincus de la qualité et du respect des produits.
+Chez Croq’biot, nous sommes 100% transparent.
+ <br /> Il n’y a pas de production locale pour les épices. Nous nous approvisionnons donc à la Biocoop, où nous sommes convaincus de la qualité et du respect des produits.
 
 ![](/img/biocoop-logo.jpg)
