@@ -48,7 +48,7 @@ product:
     sandwich.
   image:
     alt: Recettes en prep
-    img: /img/bocal.png
+    img: /img/bocalcroqbiot.png
   message: |-
     Nos recettes sont en cours de préparation.
 
