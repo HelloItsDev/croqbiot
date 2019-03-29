@@ -31,10 +31,10 @@ L’exploitation est dirigée par 3 maraichers dont 2 sont nos producteurs : Xav
 <p class="legende"> Source : <a href="/lien"> www.mangeonslocal-en-idf.com</a></p>
 
 Ancien ingénieur agronome, il a travaillé dans un organisme de certification biologique durant 13 années.
- <br /> En 2010, il commence sa production de légumes biologiques. Aujourd’hui, Xavier cultive 4 hectares de légumes varie en fonction du rythme des saisons.
+ <br /> En 2010, il commence sa production de légumes biologiques. Aujourd’hui, Xavier cultive 4 hectares de légumes qui varient en fonction du rythme des saisons.
 <br /> 
 Son légume phare ? La carotte !
-<br /> C’est elle que vous retrouverez dans la recette Carotte – Gingembre – Curcumin de Croq’biot.
+
 
 **Fabien Frémin**
 
@@ -45,7 +45,7 @@ Son légume phare ? La carotte !
 Entreprise familiale, Fabien cultive avec ses frères et sa mère. 
 <br /> Aujourd’hui, il cultive des légumes et des fruits biologiques sur 40 hectares.
  <br /> Son légume phare ? La betterave !
-<br /> C’est elle que vous retrouverez dans la recette Betterave – Cumin de Croq’biot.
+
 
 ## 
 
@@ -55,11 +55,11 @@ Entreprise familiale, Fabien cultive avec ses frères et sa mère.
 
 C’est une coopérative d’agriculteurs spécialisée dans les produits locaux (en Ile-De-France) et biologiques. 
 <br /> Elle nous permet de compléter nos besoins en légumes frais et bio pour répondre à vos attentes. 
-<br /> Grâce à eux, nous pouvons participer à la pérennité des agricultures locales et bio en privilégiant l’approvisionnement chez les agriculteurs qui ont des difficultés à écouler leurs légumes.
 
-## Pour les agrumes et les épices
+
+## Pour les épices
 
 Chez Croq’biot, nous voulons être 100% transparent.
- <br /> Il n’y a pas de production locale pour les agrumes et les épices. Nous nous approvisionnons à la Biocoop, où nous sommes convaincus de la qualité et du respect des produits.
+ <br /> Il n’y a pas de production locale pour les épices. Nous nous approvisionnons à la Biocoop, où nous sommes convaincus de la qualité et du respect des produits.
 
 ![](/img/biocoop-logo.jpg)
