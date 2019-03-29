@@ -28,29 +28,29 @@ L’exploitation est dirigée par 3 maraichers dont 2 sont nos producteurs : Xav
 
 ![Xavier Dupuis](/img/xavier-dupuis.jpg "Xavier Dupuis")
 
-<p class="legende"> Source : <a href="/lien"> www.mangeonslocal-en-idf.com</a></p>
+<p class="legende"> Source : <a href="http://www.mangeonslocal-en-idf.com"> www.mangeonslocal-en-idf.com</a></p>
 
 Voilà, Xavier !
 
-Ancien ingénieur agronome, il a travaillé dans un organisme de certification biologique durant 13 années. <br />En 2010, il créer l’unique légumerie BIO d’Ile-de-France, avec d’autres agriculteurs, qui permet aux cantines scolaires de la région parisienne d'avoir des produits frais et BIO !
+Ancien ingénieur agronome, il a travaillé dans un organisme de certification biologique durant 13 années.
+ <br />En 2010, il créer l’unique légumerie BIO d’Ile-de-France, avec d’autres agriculteurs, qui permet aux cantines scolaires de la région parisienne d'avoir des produits frais et BIO !
 
-Aujourd’hui, Xavier cultive avec passion 4 hectares de légumes qui varie selon les saisons. <br />
+Aujourd’hui, Xavier cultive avec passion 4 hectares de légumes qui varie selon les saisons. <br />
 Son légume phare ? La carotte !
-
 
 **Fabien Frémin, une passion familiale**
 
 ![Fabien Frémin](/img/fabien-fremin.jpg "Fabien Frémin")
 
-<p class="legende"> Source : <a href="/lien"> www.mangeonslocal-en-idf.com</a></p>
+<p class="legende"> Source : <a href="http://www.mangeonslocal-en-idf.com"> www.mangeonslocal-en-idf.com</a></p>
 
 Nous vous présentons Fabien !
 
-Installé depuis 2011 à la Ferme de la Haye, il produit, en famille, des légumes et fruits BIO. <br />Père de 3 enfants, il est entouré de sa femme Aurélie et de son frère Antoine pour la production et la gestion de la ferme. 
+Installé depuis 2011 à la Ferme de la Haye, il produit, en famille, des légumes et fruits BIO.
+ <br />Père de 3 enfants, il est entouré de sa femme Aurélie et de son frère Antoine pour la production et la gestion de la ferme. 
 
-
-
-Aujourd’hui, ils cultivent ensemble 20 hectares dont la moitié est consacré au maraichage. <br />Son légume phare ? La betterave !
+Aujourd’hui, ils cultivent ensemble 20 hectares dont la moitié est consacré au maraichage.
+ <br />Son légume phare ? La betterave !
 
 <br />
 
@@ -60,7 +60,6 @@ Aujourd’hui, ils cultivent ensemble 20 hectares dont la moitié est consacré 
 
 C’est une coopérative d’agriculteurs spécialisée dans les produits locaux (en Ile-De-France) et biologiques. 
 <br /> Elle nous permet de compléter nos besoins en légumes frais et BIO pour répondre à vos attentes. 
-
 
 ## Pour les épices
 
