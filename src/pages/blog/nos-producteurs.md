@@ -22,21 +22,7 @@ La ferme est située au cœur des Yvelines, aux Mureaux (78). Elle cultive de pl
 
 ![](/img/mangeons-locale.jpg)
 
-L’exploitation est dirigée par 3 maraichers dont 2 sont nos producteurs : Xavier Dupuis et la famille Frémin. 
-
-**Xavier Dupuis, le roi de la carotte** 
-
-![Xavier Dupuis](/img/xavier-dupuis.jpg "Xavier Dupuis")
-
-<p class="legende"> Source : <a href="http://www.mangeonslocal-en-idf.com"> www.mangeonslocal-en-idf.com</a></p>
-
-Voilà, Xavier !
-
-Ancien ingénieur agronome, il a travaillé dans un organisme de certification biologique durant 13 années.
- <br />En 2010, il créer l’unique légumerie BIO d’Ile-de-France, avec d’autres agriculteurs, qui permet aux cantines scolaires de la région parisienne d'avoir des produits frais et BIO !
-
-Aujourd’hui, Xavier cultive avec passion 4 hectares de légumes qui varie selon les saisons. <br />
-Son légume phare ? La carotte !
+L’exploitation est dirigée par 3 maraichers dont la famille Frémin.
 
 **Fabien Frémin, une passion familiale**
 
@@ -53,6 +39,24 @@ Aujourd’hui, ils cultivent ensemble 20 hectares dont la moitié est consacré 
  <br />Son légume phare ? La betterave !
 
 <br />
+
+
+
+## **Xavier Dupuis, le roi de la carotte** 
+
+![Xavier Dupuis](/img/xavier-dupuis.jpg "Xavier Dupuis")
+
+<p class="legende"> Source : <a href="http://www.mangeonslocal-en-idf.com"> www.mangeonslocal-en-idf.com</a></p>
+
+Voilà, Xavier !
+
+Ancien ingénieur agronome, il a travaillé dans un organisme de certification biologique durant 13 années.
+ <br />En 2010, il crée l’unique légumerie BIO d’Ile-de-France (aux Mureaux dans les Yvelines) avec d’autres agriculteurs. Elle permet aux cantines scolaires de la région parisienne d'avoir des produits frais et BIO !
+
+Aujourd’hui, Xavier cultive avec passion 4 hectares de légumes qui varie selon les saisons. <br />
+Son légume phare ? La carotte !
+
+
 
 ## Bio Ile-De-France
 
