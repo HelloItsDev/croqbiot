@@ -32,7 +32,7 @@ const Navbar = class extends React.Component {
 			{ name: 'Histoire', to: '/notre-histoire' },
 			{ name: 'Blog', to: '/blog' },
 			{ name: 'Nos producteurs', to: '/blog/nos-producteurs/' },
-			{ name: 'Boutiques', to: '/boutique' }
+			{ name: 'Boutiques', to: '/boutiques' }
 		];
 
     return (
