@@ -48,13 +48,13 @@ product:
     sandwich.
   image:
     alt: Recettes en prep
-    img: /img/patience.jpg
+    img: /img/bocalcroqbiot.png
   message: |-
     Nos recettes sont en cours de préparation.
 
     Nous vous informerons lorsqu'elles seront diponibles.
   status: BIENTOT DISPONIBLE
-  subTitle: 500 g
+  subTitle: '- G'
   title: Légumes lactofermentés Croq'biot
 banner:
   image:
