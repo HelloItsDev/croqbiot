@@ -40,9 +40,7 @@ Aujourd’hui, ils cultivent ensemble 20 hectares dont la moitié est consacré 
 
 <br />
 
-
-
-## **Xavier Dupuis, le roi de la carotte** 
+## **Xavier Dupuis, le roi de la carotte**
 
 ![Xavier Dupuis](/img/xavier-dupuis.jpg "Xavier Dupuis")
 
@@ -53,10 +51,8 @@ Voilà, Xavier !
 Ancien ingénieur agronome, il a travaillé dans un organisme de certification biologique durant 13 années.
  <br />En 2010, il crée l’unique légumerie BIO d’Ile-de-France (aux Mureaux dans les Yvelines) avec d’autres agriculteurs. Elle permet aux cantines scolaires de la région parisienne d'avoir des produits frais et BIO !
 
-Aujourd’hui, Xavier cultive avec passion 4 hectares de légumes qui varie selon les saisons. <br />
+Aujourd’hui, Xavier cultive avec passion 4 hectares de légumes qui varient selon les saisons. <br />
 Son légume phare ? La carotte !
-
-
 
 ## Bio Ile-De-France
 
@@ -67,7 +63,7 @@ C’est une coopérative d’agriculteurs spécialisée dans les produits locaux
 
 ## Pour les épices
 
-Chez Croq’biot, nous sommes 100% transparent.
+Chez Croq’biot, nous sommes 100% transparents.
  <br /> Il n’y a pas de production locale pour les épices. Nous nous approvisionnons donc à la Biocoop, où nous sommes convaincus de la qualité et du respect des produits.
 
 ![](/img/biocoop-logo.jpg)
