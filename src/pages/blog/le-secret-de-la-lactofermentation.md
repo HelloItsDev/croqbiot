@@ -35,7 +35,7 @@ Tout d’abord une petite définition de la fermentation. <br />
 "Une fermentation est la transformation d'une substance organique (fruit, légume, céréale, légumineuse, lait, poisson, viande, etc.) sous l'action de ferments - ou enzymes - produits par des bactéries ou des champignons microscopiques." <br />
  (Source : Les aliments lactofermentés traditionnels de Claude Aubert.) <br />
 
-Il existe différentes catégories de fermentation, celle qui nous intéresse est appelé la lactofermentation. <br />
+Il existe différentes catégories de fermentation, celle qui nous intéresse est appelée la lactofermentation. <br />
 
 La lactofermentation est une méthode ancienne de conservation des aliments qui existe depuis des milliers d'années. <br /> 
 De nombreuses cultures à travers le monde utilisent cette technique et de nombreux aliments, que vous avez probablement déjà mangés, ont été fabriqués à l’origine avec la lactofermentation. <br />
@@ -51,7 +51,7 @@ Parmi ces aliments, nous avons :
 ## Quelle est le fonctionnement de la lactofermentation ?
 
 La lactofermentation se caractérise par la formation d’acide lactique à partir des amidons naturels et des sucres présents dans les végétaux. <br />
-Cette méthode n’a rien à voir avec le lactose. Elle tient son nom de ses bactéries appelés bactéries lactiques (ou lactobacilles) et ne proviennent pas du lait.<br /> 
+Cette méthode n’a rien à voir avec le lactose. Elle tient son nom de ses bactéries appelées bactéries lactiques (ou lactobacilles) et ne proviennent pas du lait.<br /> 
 
 ![Bactéries lactiques ](/img/bacteries-lactiques.jpg "Bactéries lactiques ")
 
@@ -59,15 +59,15 @@ Cette méthode n’a rien à voir avec le lactose. Elle tient son nom de ses bac
 
 Ces bactéries lactobacilles (L. Acidophilus et L. Bifidus) se nourrissent des glucides (amidons et sucres) donnant place à l’acide lactique. <br /> 
 
-Cet acide est un conservateur naturel et permet d'inhiber le développement des bactéries pathogènes et de la plupart des germes susceptibles de dégrader les aliments (pourrissement, moisissure, etc.). <br /> C’est lors de ce processus de fermentation que se créer de bonnes bactéries : les probiotiques. <br />
+Cet acide est un conservateur naturel et permet d'inhiber le développement des bactéries pathogènes et de la plupart des germes susceptibles de dégrader les aliments (pourrissement, moisissure, etc.). <br /> C’est lors de ce processus de fermentation que se créent de bonnes bactéries : les probiotiques. <br />
 
 À savoir que, parmi tous les acides communs à la conservation des aliments, l'acide lactique est celui qui est le plus facilement utilisé par l'organisme et ne provoque pas d'effets trop acidifiant.
 
 ## Les légumes lactofermentés Croq'biot
 
-Pour pouvoir profiter pleinement des bénéfices des légumes lactofermentés, la méthode de fermentation et la qualité des aliments est primordiales ! <br />
+Pour pouvoir profiter pleinement des bénéfices des légumes lactofermentés, la méthode de fermentation et la qualité des aliments sont primordiales ! <br />
 
-Les légumes lactofermentés Croq'biot sont fabriquées avec des ingrédients naturels, de qualités et provenant de producteurs locaux français issus de l’agriculture biologique. (Hormis bien sûr, quelques épices qui ne sont pas cultivés en France mais qui sont biologiques.)
+Les légumes lactofermentés Croq'biot sont fabriqués avec des ingrédients naturels, de qualités et provenant de producteurs locaux français issus de l’agriculture biologique. (Hormis bien sûr, quelques épices qui ne sont pas cultivées en France mais qui sont biologiques.)
 <br />
  Grâce à la qualité des produits utilisés, les légumes lactofermentés Croq'biot sont riches en vitamines, minéraux, enzymes et probiotiques naturels. <br /> 
 
