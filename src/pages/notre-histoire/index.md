@@ -206,6 +206,7 @@ stories:
       val: Les avantages de manger vivant
   - cta:
       actif: true
+      link: /blog/nos-producteurs/
       val: Rencontrer nos producteurs
     story: >-
       C'est en voulant acheter des légumes lactofermentés en magasin que j'ai
