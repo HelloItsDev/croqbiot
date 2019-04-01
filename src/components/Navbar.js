@@ -31,8 +31,8 @@ const Navbar = class extends React.Component {
 			{ name: 'Home', to: '/' },
 			{ name: 'Histoire', to: '/notre-histoire' },
 			{ name: 'Blog', to: '/blog' },
-			{ name: 'Boutiques', to: '/shops' },
-			{ name: 'Acheter en ligne', to: '/buy' }
+			{ name: 'Nos producteurs', to: '/blog/nos-producteurs/' },
+			{ name: 'Boutiques', to: '/boutique' }
 		];
 
     return (
