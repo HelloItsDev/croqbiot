@@ -6,7 +6,7 @@ const NotFoundPage = () => (
     <div className="grid">
     <div className="col md-7 lg-5 md-push-1 lg-push-3">
       <h1>Pas de pot! </h1>
-      <p>Cette page n'existe plus!</p>
+      <p>Cette page n'existe pas encore !</p>
     </div>
     </div>
     
