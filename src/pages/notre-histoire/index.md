@@ -37,7 +37,7 @@ stories:
       val: ''
     story: >-
       C'est d'une envie de partager sur l'importance de manger équilibré et de
-      prendre soin de son intestin qu'est née le projet Croq'biot. 
+      prendre soin de son intestin qu'est né le projet Croq'biot. 
 
 
       ![Logo](/img/logocroqbiot.png "Logo")
@@ -83,7 +83,7 @@ stories:
       val: Le micro.. quoi ?
   - story: >-
       Une des solutions pour prendre soin de son microbiote est de le
-      réensemencer avec de bons ferments lactiques, aussi appelé probiotiques.
+      réensemencer avec de bons ferments lactiques, aussi appelés probiotiques.
 
 
       Aujourd'hui, la majorité des personnes s'alimente en probiotiques par des
@@ -94,7 +94,7 @@ stories:
       gélules avec promesses et grammages différents ? 
 
 
-      Bien qu'on puisse y voir un côté pratique à ce format, ces gélules sont
+      Bien qu'on puisse voir un côté pratique à ce format, ces gélules sont
       souvent très peu dosées et peuvent nécessiter une prise de 7 gélules par
       jour pour pouvoir bénéficier des avantages. 
 
@@ -119,7 +119,7 @@ stories:
       actif: true
       val: >-
         La lactofermentation n’a rien à voir avec le lactose. Elle tient son nom
-        de ses bactéries appelés bactéries lactiques (lactobacilles) et ne
+        de ses bactéries appelées bactéries lactiques (lactobacilles) et ne
         proviennent pas du lait.
     story: >-
       ![Aliments fermentés](/img/aliments-fermentes1.jpg "Aliments fermentés")
@@ -166,7 +166,7 @@ stories:
       légumes fermentés")
 
 
-      Le premier avantage, qui est ce pourquoi la fermentation a été créer, est
+      Le premier avantage, qui est ce pourquoi la fermentation a été créee, est
       la conservation. 
 
 
@@ -175,12 +175,12 @@ stories:
       température ambiante et pas besoin de cuisson). 
 
 
-      Les légumes lactofermentés sont également très intéressant pour leurs
+      Les légumes lactofermentés sont également très intéressants pour leurs
       bénéfices nutritionnels et sanitaires. 
 
 
       Des recherches scientifiques ont confirmé le lien entre la santé et les
-      bactéries vivantes, contenu dans ces produits, que l'on appelle les
+      bactéries vivantes, contenues dans ces produits, que l'on appelle les
       probiotiques. 
 
 
@@ -209,17 +209,17 @@ stories:
       val: Rencontrer nos producteurs
     story: >-
       C'est en voulant acheter des légumes lactofermentés en magasin que j'ai
-      été très déçu face à la pauvreté du choix. 
+      été très déçue face à la pauvreté du choix. 
 
 
       En effet, j'ai constaté que l'offre des produits lactofermentés se
-      résumait à la choucroute déjà vu et revu, ou bien, à des produits
-      industriels remplient de promesses mais pasteurisés (procédé qui supprime
+      résumait à la choucroute déjà vue et revue, ou bien, à des produits
+      industriels remplis de promesses mais pasteurisés (procédé qui supprime
       les probiotiques apportés par la fermentation et n'ont donc plus
       d'intérêt) et emballés dans des pots en plastiques. 
 
 
-      Au temps vous dire que ni mes papilles gustatives ni mon esprit
+      Autant vous dire que ni mes papilles gustatives ni mon esprit
       éco-responsable ne voulaient acheter ces produits. 
 
        J'ai donc eu envie de partager mon expérience et mes recettes savoureuses et originales à travers une marque locale, Croq'biot. 
@@ -240,7 +240,7 @@ stories:
 
 
       <br/> Les pots Croq'biot sont des légumes lactofermentés gourmands,
-      croquants et originaux, prêt à être dévoré dans une salade ou un
+      croquants et originaux, prêts à être dévorés dans une salade ou un
       sandwich. 
 
 
