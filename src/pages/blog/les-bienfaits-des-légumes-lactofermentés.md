@@ -20,6 +20,8 @@ Je vais vous présenter tous les avantages de ces légumes lactofermentés et vo
 
 **1. Détruit les mauvaises bactéries**
 
+![Mauvaises bacteries](/img/bacteries-1-.jpg "Mauvaises bacteries")
+
 Les légumes lactofermentés sont conserves dans un milieu acide. Cette acidité rend les végétaux résistants à la décomposition microbienne, au développement de toxines alimentaires et de germes pathogènes.
 
 Et cela, en conservant, voire en amplifiant, les valeurs nutritives des légumes entre la récolte et la consommation.
@@ -46,6 +48,8 @@ Les aliments lactofermentés étant prédigères à des degrés diffèrent, il y
 
 **3. Facilite la digestion**
 
+![Facilite la digestion](/img/manger.jpg "Facilite la digestion")
+
 Les légumes lactofermentés attirent les sucs digestifs comme un aimant ce qui permet d’augmenter la digestion des aliments cuits, notamment des aliments difficiles à digérer comme la viande rouge.
 
 De plus, les bactéries vivantes, contenues dans les légumes lactofermentés, contribuent à la digestion en produisant une substance protectrice pendant le passage dans l'intestin des aliments. 
@@ -53,6 +57,8 @@ De plus, les bactéries vivantes, contenues dans les légumes lactofermentés, c
 Elles découragent également les bactéries pathogènes, ce qui permet de lutter contre certaines maladies.
 
 **4. Réduit le cholestérol**
+
+![Réduit le cholestérol](/img/cholesterol.jpg "Réduit le cholestérol")
 
 Les probiotiques contenus dans les légumes lactofermentés créer des acides, plus précisément de l’acide propionique, qui aident à bloquer la production de cholestérol par le foie.
 
@@ -88,6 +94,8 @@ Ce coup de mou est en fait un signe d’hypoglycémie, c’est-à-dire que la co
 
 **6. Renforce le système immunitaire**
 
+![Renforce le système immunitaire](/img/immunite.jpg "Renforce le système immunitaire")
+
 À savoir que 80% de votre système immunitaire est localisé dans notre tube digestif. 
 
 L’intestin a donc une fonction très importante dans votre immunité, il est donc capital d'en prendre soin. 
@@ -95,6 +103,8 @@ L’intestin a donc une fonction très importante dans votre immunité, il est d
  <br /> Les légumes lactofermentés étant riches en probiotiques naturels (lactobacilles et des bifidobactéries), ils participent à la resemence de ces bonnes bactéries afin de renforcer votre microbiote intestin.
 
 **7. Protège le corps contre le stress**
+
+![](/img/stress.jpg)
 
 Vous savez, cette douleur au ventre qui apparait lors d’évènements stressants ?
 
