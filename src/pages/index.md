@@ -24,7 +24,7 @@ story:
     bien vivre. <br />
 
 
-    Riches en vitamines et en probiotiques naturels, nos recettes de légumes
+    Riches en vitamines et en probiotiques naturels, nos légumes
     lactofermentés<sup className="-yellow">&#9679;</sup>  participeront au
     bonheur de votre ventre et de vos papilles.
   story2: >-
