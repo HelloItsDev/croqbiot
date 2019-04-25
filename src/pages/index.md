@@ -24,9 +24,9 @@ story:
     bien vivre. <br />
 
 
-    Enrichies en vitamines et en probiotiques naturels, nos recettes de légumes
-    lactofermentés<sup className="-yellow">&#9679;</sup> naturellement
-    participeront au bonheur de votre ventre et de vos papilles.
+    Riches en vitamines et en probiotiques naturels, nos recettes de légumes
+    lactofermentés<sup className="-yellow">&#9679;</sup>  participeront au
+    bonheur de votre ventre et de vos papilles.
   story2: >-
     Dans une démarche éco-responsable, nous fermentons exclusivement des légumes
     100% biologiques provenant de producteurs français locaux.
