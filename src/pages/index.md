@@ -27,7 +27,7 @@ story:
     <br />
 
 
-    Enrichies en vitamines, minéraux et probiotiques naturels, nos légumes
+    Enrichis en vitamines, minéraux et probiotiques naturels, nos légumes
     lactofermentés<sup className="-yellow">&#9679;</sup>  participeront au
     bonheur de votre ventre et de vos papilles.
   story2: "Finis les légumes anonymes faisant des milliers de kilomètres ! \r\n\nNous fermentons exclusivement des légumes 100% biologiques provenant de producteurs français locaux."
