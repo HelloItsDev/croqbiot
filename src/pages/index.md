@@ -24,12 +24,13 @@ story:
     bien vivre. <br />
 
 
-    Riches en vitamines et en probiotiques naturels, nos légumes
+    <br />
+
+
+    Enrichies en vitamines, minéraux et probiotiques naturels, nos légumes
     lactofermentés<sup className="-yellow">&#9679;</sup>  participeront au
     bonheur de votre ventre et de vos papilles.
-  story2: >-
-    Dans une démarche éco-responsable, nous fermentons exclusivement des légumes
-    100% biologiques provenant de producteurs français locaux.
+  story2: "Finis les légumes anonymes faisant des milliers de kilomètres ! \r\n\nNous fermentons exclusivement des légumes 100% biologiques provenant de producteurs français locaux."
 findashop:
   cta: Voir les magasins
   description: >-
