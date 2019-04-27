@@ -227,7 +227,7 @@ query IndexPageTemplate {
           imageVertical {
             img {
               childImageSharp {
-                fluid(maxHeight: 420, quality: 100) {
+                fluid(maxHeight: 520, quality: 100) {
                   ...GatsbyImageSharpFluid
                 }
               }
