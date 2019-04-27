@@ -18,7 +18,7 @@ story:
     img: /img/img_0364v2.jpg
   imageVertical:
     alt: Fondatrice Croq'biot
-    img: /img/anais-1-.jpg
+    img: /img/anais-2-.jpg
   story1: >-
     Chez Croq'biot, nous nous engageons à produire des aliments vivants pour
     bien vivre. <br />
