@@ -20,11 +20,7 @@ Les protéines, les lipides, les glucides, les vitamines, les minéraux et l'eau
 
 Notre système digestif décompose les nutriments en parties suffisamment petites pour que notre corps puisse les absorber et les utiliser pour l'énergie, la croissance et la réparation des cellules.
 
-
-
 ## Comment fonctionne notre système digestif ?
-
-
 
 ![Digestion](/img/corps-humain-digestion.png "Digestion")
 
@@ -34,13 +30,11 @@ Une fois que les aliments sont divisés en petites confettis, notre corps peut a
 
 Pour comprendre le chemin des aliments, nous allons détailler chaque étape lorsque l’on mange une pizza.
 
-
-
 C’est parti !
 
-
-
 ## La bouche
+
+![](/img/mange-pizza.jpg)
 
 Le processus digestif commence dans la bouche. 
 
@@ -50,13 +44,7 @@ En effet, la bouche anticipation en stimule la production de salive par les glan
 
 Lorsque nous mettons le premier morceau de pizza dans notre bouche, nos dents le mastique, broie, mâche. La salive humidifie et commence à décomposer les amidons des aliments grâce aux enzymes ce qui contribue à la rendre molle et facile à avaler
 
-
-
 Une fois les aliments bien mâchés et humidifiés, notre langue pousse un tout petit morceau de nourriture gonflée appelée bolus vers l’arrière de notre gorge et dans l'ouverture de votre œsophage, la deuxième partie du tube digestif.
-
-
-
-
 
 ## L'œsophage
 
@@ -66,23 +54,13 @@ Il est le lien entre la bouche et l’estomac en déplaçant les aliments de l'a
 
 A l'arrière de notre gorge, se situe également notre trachée. Elle permet à l'air d'entrer et de sortir de notre corps. Pour éviter un risque de fausse route, un volet spécial appelé épiglotte se rabat sur l'ouverture de votre trachée pour assurer la petite boule d'aliment de pénètrer dans l'œsophage et non notre trachée.
 
-
-
 Si vous avez déjà bu quelque chose trop vite, commencé à tousser et entendu quelqu'un dire que vous avez bu de travers, cela signifie que l’eau a coulé dans votre trachée par erreur. Cela se produit lorsque l’épiglotte n’a pas le temps de se rabattre.
 
-
-
 Une fois que la nourriture est entrée dans l'œsophage, elle ne tombe pas simplement dans l'estomac. Les muscles des parois de l'œsophage se déplacent de manière ondulée pour faire passer lentement la nourriture dans l’estomac. Cela prend environ 2 à 3 secondes.
-
-
 
 Lorsque la nourriture atteint l'extrémité de votre œsophage, un muscle en forme d'anneau, appelé sphincter inférieur de l'œsophage, se détend et laisse la nourriture passer dans votre estomac.
 
 Ce sphincter reste généralement fermé pour empêcher les reflux, c’est-à-dire des sucs gastriques et enzymes digestives de revenir dans notre œsophage.
-
-
-
-
 
 ## Estomac
 
@@ -96,7 +74,7 @@ Il a trois tâches importantes :
 * Décomposer les aliments en un mélange liquide appelé le chyme.
 * Vider lentement ce mélange liquide dans l'intestin grêle
 
-L'estomac est comme un mélangeur, brassant et écrasant toutes les petites boulettes de nourriture qui sont tombées dans l'œsophage en morceaux de plus en plus petits. 
+L'estomac est comme un mélangeur, brassant et écrasant toutes les petites boulettes de nourriture qui sont tombées dans l'œsophage en morceaux de plus en plus petits. 
 
 Ce sont les muscles puissants des parois de l'estomac et les sucs gastriques produit par les glandes de notre estomac qui s’occupe de cela pendant environ 2H.
 
@@ -110,17 +88,11 @@ Ainsi que par la température des aliments. Les aliments ingérés à températu
 
 L’estomac envoie également de petits messages à notre cerveau lui indiquant quand nous devant manger et nous arrêter. Il contrôle ainsi notre niveau de satiété et la prise alimentaire.
 
-
-
-
-
 ## Intestin grêle
 
 L’intestin grêle est la partie la plus longue de notre système digestif. C’est un long tube d'environ 5 à 7 cm environ. Il est emballé à l'intérieur de nous en zig-zag, sous notre estomac. 
 
 Il couvre à lui seul une surface moyenne de 250 m2, soit la superficie d'un terrain de tennis. Cette grande valeur est due aux nombreux plis et ramifications internes de la paroi intestinale.
-
-
 
 L'intestin grêle décompose encore plus le mélange alimentaire pour que notre corps puisse absorber toutes les vitamines, minéraux, protéines, glucides et lipides. 
 
@@ -131,8 +103,6 @@ Le jambon grillé sur notre pizza est plein de protéines ainsi et que d’un pe
 * Le pancréas
 * Le foie 
 * La vésicule biliaire
-
-
 
 Ces organes envoient des jus différents à la première partie de l'intestin grêle. Ces jus aident à digérer les aliments et permettent au corps d'absorber les nutriments. 
 
@@ -150,15 +120,11 @@ La capacite d’absorption intestinal est très importante et efficace ! Plus de
 
 Prochain arrêt pour les nutriments : le foie ! Et pour les déchets qui restent, c’est-à-dire les parties de la nourriture que notre corps ne peut pas utiliser, ils vont dans le gros intestin.
 
-
-
 ## Le foie
 
 Le sang riche en nutriments arrive directement au foie pour le traitement.
 
 Le foie a un rôle essentiel, il filtre les substances nocives et les déchets et les transforment en davantage de bile. Ainsi qu’il détermine combien de nutriments iront au reste du corps et combien resteront en réserve. Par exemple, le foie stocke certaines vitamines et un type de sucre que votre corps utilise comme énergie.
-
-
 
 ## Gros intestin ou le côlon
 
