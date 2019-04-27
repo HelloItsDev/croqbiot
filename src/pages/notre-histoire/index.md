@@ -108,24 +108,24 @@ stories:
       gélules.
 
 
-      Et j'ai trouvé : les produits lactofermentés !
+      Et j'ai trouvé : les produits lacto-fermentés !
     title:
       val: Gelules probiotiques
   - cta:
       actif: true
       link: /blog/le-secret-de-la-lactofermentation/
-      val: En savoir plus sur les légumes lactofermentés
+      val: En savoir plus sur les légumes lacto-fermentés
     footnote:
       actif: true
       val: >-
-        La lactofermentation n’a rien à voir avec le lactose. Elle tient son nom
+        La lacto-fermentation n’a rien à voir avec le lactose. Elle tient son nom
         de ses bactéries appelées bactéries lactiques (lactobacilles) et ne
         proviennent pas du lait.
     story: >-
       ![Aliments fermentés](/img/aliments-fermentes1.jpg "Aliments fermentés")
 
 
-      La lactofermentation<sup className="-yellow">&#9679;</sup> est une méthode
+      La lacto-fermentation<sup className="-yellow">&#9679;</sup> est une méthode
       de conservation créant des aliments vivants.
 
 
@@ -144,10 +144,10 @@ stories:
       de lier ma découverte avec ce que j'aimais manger au quotidien.
 
 
-      Je me suis donc intéressée aux légumes lactofermentés. 
+      Je me suis donc intéressée aux légumes lacto-fermentés. 
 
 
-      Les légumes lactofermentés sont créés par la transformation des sucres,
+      Les légumes lacto-fermentés sont créés par la transformation des sucres,
       contenus dans les légumes, en acide lactique par les bactéries lactiques.
 
 
@@ -156,7 +156,7 @@ stories:
       sainement".
     title:
       actif: true
-      val: 'La lactofermentation, qu''est-ce que c''est ?'
+      val: 'La lacto-fermentation, qu''est-ce que c''est ?'
   - cta:
       actif: true
       link: /blog/les-bienfaits-des-légumes-lactofermentés/
@@ -170,12 +170,12 @@ stories:
       la conservation. 
 
 
-      En effet, des légumes correctement lactofermentés ont une durée de
+      En effet, des légumes correctement lacto-fermentés ont une durée de
       conservation très longue, sans avoir besoin d'énergie (conservation à
       température ambiante et pas besoin de cuisson). 
 
 
-      Les légumes lactofermentés sont également très intéressants pour leurs
+      Les légumes lacto-fermentés sont également très intéressants pour leurs
       bénéfices nutritionnels et sanitaires. 
 
 
@@ -199,7 +199,7 @@ stories:
 
 
       J'ai eu donc un vrai plaisir à découvrir des saveurs nouvelles et
-      complexes liées à la lactofermentation des légumes, acidulés et frais qui
+      complexes liées à la lacto-fermentation des légumes, acidulés et frais qui
       s'agrémentent parfaitement à tout type de plat.
     title:
       actif: true
@@ -209,11 +209,11 @@ stories:
       link: /blog/nos-producteurs/
       val: Rencontrer nos producteurs
     story: >-
-      C'est en voulant acheter des légumes lactofermentés en magasin que j'ai
+      C'est en voulant acheter des légumes lacto-fermentés en magasin que j'ai
       été très déçue face à la pauvreté du choix. 
 
 
-      En effet, j'ai constaté que l'offre des produits lactofermentés se
+      En effet, j'ai constaté que l'offre des produits lacto-fermentés se
       résumait à la choucroute déjà vue et revue, ou bien, à des produits
       industriels remplis de promesses mais pasteurisés (procédé qui supprime
       les probiotiques apportés par la fermentation et n'ont donc plus
@@ -228,7 +228,7 @@ stories:
       ![Preparation Croq'biot](/img/img_0477.jpg "Preparation Croq'biot")
 
 
-      Les légumes lactofermentés Croq'biot sont : 
+      Les légumes lacto-fermentés Croq'biot sont : 
 
 
       * Faits à la main
@@ -240,12 +240,12 @@ stories:
       * Eco-responsables
 
 
-      <br/> Les pots Croq'biot sont des légumes lactofermentés gourmands,
+      <br/> Les pots Croq'biot sont des légumes lacto-fermentés gourmands,
       croquants et originaux, prêts à être dévorés dans une salade ou un
       sandwich. 
 
 
-      Les légumes lactofermentés Croq'biot sont uniques ! 
+      Les légumes lacto-fermentés Croq'biot sont uniques ! 
 
 
       Ils sont fabriqués et mis en bocal à la main ici-même, en Essonne. 
@@ -263,6 +263,6 @@ stories:
       maturité afin de profiter de leur véritable saveur.
     title:
       actif: true
-      val: Les légumes lactofermentés Croq'biot
+      val: Les légumes lacto-fermentés Croq'biot
 ---
 

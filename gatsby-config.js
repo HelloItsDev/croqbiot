@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Croq'biot, Légumes lactofermentés",
-    description: "Des bonnes recettes de légumes lactofermentés fait maison.",
+    title: "Croq'biot, Légumes lacto-fermentés",
+    description: "Bocaux de légumes lacto-fermentés bio, locaux et éco-responsables. Enrichis en vitamines, minéraux et probiotiques naturels, nos bocaux sont faits maison, en Ile-De-France.",
     siteUrl: `https://croqbiot.fr`,
   },
   plugins: [

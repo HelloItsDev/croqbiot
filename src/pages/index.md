@@ -9,7 +9,7 @@ header:
 story:
   cta: Lire notre histoire
   footnote: >-
-    La lactofermentation est une méthode ancestrale de transformation des
+    La lacto-fermentation est une méthode ancestrale de transformation des
     aliments. Elle consiste à convertir les sucres, contenus dans les légumes,
     en acide lactique. C’est cette acidification qui donne aux légumes un goût
     frais et acidulé.
@@ -28,7 +28,7 @@ story:
 
 
     Enrichis en vitamines, minéraux et probiotiques naturels, nos légumes
-    lactofermentés<sup className="-yellow">&#9679;</sup>  participeront au
+    lacto-fermentés<sup className="-yellow">&#9679;</sup>  participeront au
     bonheur de votre ventre et de vos papilles.
   story2: >-
     Terminés les milliers de kilomètres parcourus par des légumes anonymes sans
@@ -40,17 +40,17 @@ story:
 findashop:
   cta: Voir les magasins
   description: >-
-    Vous pourrez bientôt trouver nos légumes lactofermentés dans des magasins à
+    Vous pourrez bientôt trouver nos légumes lacto-fermentés dans des magasins à
     Paris.
   footer: Manger vivant pour un ventre souriant
-  heading: Nos légumes lactofermentés Croq'biot
+  heading: Nos légumes lacto-fermentés Croq'biot
   image:
     alt: Choux rouge Croq'biot
     img: /img/shutterstock_346508717_bocaux_chou_rouge_lactofermente.jpg
   subheading: 'Où nous trouver ? '
 product:
   description: >-
-    Nos légumes lactofermentés Croq'biot sont croquants et savoureux. Ils seront
+    Nos légumes lacto-fermentés Croq'biot sont croquants et savoureux. Ils seront
     parfaits pour agrémenter vos salades, sur des toasts grillés ou dans un
     sandwich.
   image:
@@ -62,7 +62,7 @@ product:
     Nous vous informerons lorsqu'elles seront diponibles.
   status: BIENTOT DISPONIBLE
   subTitle: '- G'
-  title: Légumes lactofermentés Croq'biot
+  title: Légumes lacto-fermentés Croq'biot
 banner:
   image:
     alt: carottes francaises et bio
