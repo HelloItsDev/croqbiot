@@ -96,10 +96,20 @@ Le foie a un rôle essentiel, il filtre les substances nocives et les déchets e
 
 ![Digestion des aliments gros intestin](/img/digestion-gros-intestin.png "Digestion des aliments gros intestin")
 
-Le gros intestin mesure entre 80 et 150 cm et constitue presque le dernier arrêt sur le tube digestif.<br /> Il est habité par de nombreuses bactéries. C’est ici que l’on trouve le microbiote intestinal ! Il représente environ 2 kilos du poids du corps et contient environ 100 000 milliards de bactéries regroupées en 400 espèces.
+Le gros intestin mesure entre 80 et 150 cm et constitue presque le dernier arrêt sur le tube digestif.
+<br /> Il est habité par de nombreuses bactéries. C’est ici que l’on trouve le microbiote intestinal ! Il représente environ 2 kilos du poids du corps et contient environ 100 000 milliards de bactéries.
+
+<a class="button" href="/blog/le-microbiote-intestinal/">En savoir plus sur le microbiote</a>
+
+
 
 Le gros intestin a un minuscule tube dont l'extrémité fermée est appelée appendice. Cela fait partie du tube digestif, mais il n’a pas de rôle dans la digestion. Il peut néanmoins poser de gros problèmes car il est parfois infecté (crise d’appendicite) et doit être enlevé.
 
-Comme nous l'avons dit plus haut, une fois que la plupart des nutriments ont été retirés du mélange d'aliments, il reste des déchets. Ce truc doit être évacué du corps.<br /> Mais avant de partir, il traverse la partie du gros intestin appelée le côlon. C’est la dernière chance au corps d’absorber l'eau et certains minéraux dans le sang. <br /> Le colon déshydrate les déchets jusqu’a qu’ils se solidifient. Et le côlon prend tout son temps : parfois jusqu’à 16H !
+Comme nous l'avons dit plus haut, une fois que la plupart des nutriments ont été retirés du mélange d'aliments, il reste des déchets.
+ Ce truc doit être évacué du corps.
+<br /> Mais avant de partir, il traverse la partie du gros intestin appelée le côlon.
+ C’est la dernière chance au corps d’absorber l'eau et certains minéraux dans le sang. 
+<br /> Le colon déshydrate les déchets jusqu’a qu’ils se solidifient. Et le côlon prend tout son temps : parfois jusqu’à 16H !
 
-Pouvez-vous deviner où ces déchets solidifiés se terminent ? Eh bien, voici un indice : ils sortent avec une couleur. <br /> Les selles détiennent leur couleur marron des pigments de la bile. Et comme nous l’avons vu plus haut, elles sont composées de la partie indigeste des aliments, comme les fibres, de cellules de la paroi intestinale et d’énormément de bactéries. Sur les 1,5L de résidus entrant chaque jour dans le côlon, il s’évacue 150g de selles.
+Pouvez-vous deviner où ces déchets solidifiés se terminent ? Eh bien, voici un indice : ils sortent avec une couleur.
+ <br /> Les selles détiennent leur couleur marron des pigments de la bile. Et comme nous l’avons vu plus haut, elles sont composées de la partie indigeste des aliments, comme les fibres, de cellules de la paroi intestinale et d’énormément de bactéries. Sur les 1,5L de résidus entrant chaque jour dans le côlon, il s’évacue 150g de selles.
