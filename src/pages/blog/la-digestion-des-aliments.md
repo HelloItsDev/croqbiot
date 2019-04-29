@@ -2,11 +2,11 @@
 templateKey: blog-post
 actifBlog: false
 title: La digestion des aliments
-date: 2019-04-27T16:07:25.330Z
+date: 2019-04-29T16:07:00.000Z
 description: >-
   Savons-nous exactement comment fonctionne notre corps ? Savons-nous comment
   nos aliments sont transformés et comment les protéines, les lipides, les
-  glucides, les vitamines, les minéraux sont absorbés ?
+  glucides, les vitamines et les minéraux sont absorbés ?
 
   Nous allons vous expliquer. 
 readingTime: '6'
@@ -48,6 +48,8 @@ Une fois les aliments bien mâchés et humidifiés, notre langue pousse un tout 
 
 ## L'œsophage
 
+![Digestion des aliments oesophage](/img/digestion-oesophage.png "Digestion des aliments oesophage")
+
 L’œsophage ressemble à un tuyau extensible de 25 à 30 cm de long et large de 2 cm.
 
 Il est le lien entre la bouche et l’estomac en déplaçant les aliments de l'arrière de la gorge vers l'estomac. 
@@ -63,6 +65,8 @@ Lorsque la nourriture atteint l'extrémité de votre œsophage, un muscle en for
 Ce sphincter reste généralement fermé pour empêcher les reflux, c’est-à-dire des sucs gastriques et enzymes digestives de revenir dans notre œsophage.
 
 ## Estomac
+
+![Digestion des aliments estomac](/img/digestion-estomac.png "Digestion des aliments estomac")
 
 Notre estomac, qui est attaché à la fin de l'œsophage, est un sac extensible en forme de J. 
 
@@ -89,6 +93,8 @@ Ainsi que par la température des aliments. Les aliments ingérés à températu
 L’estomac envoie également de petits messages à notre cerveau lui indiquant quand nous devant manger et nous arrêter. Il contrôle ainsi notre niveau de satiété et la prise alimentaire.
 
 ## Intestin grêle
+
+![Digestion des aliments intestin grele](/img/digestion-intestin-grele.png "Digestion des aliments intestin grele")
 
 L’intestin grêle est la partie la plus longue de notre système digestif. C’est un long tube d'environ 5 à 7 cm environ. Il est emballé à l'intérieur de nous en zig-zag, sous notre estomac. 
 
@@ -122,11 +128,15 @@ Prochain arrêt pour les nutriments : le foie ! Et pour les déchets qui restent
 
 ## Le foie
 
+![Digestion des aliments foie](/img/digestion-foie.png "Digestion des aliments foie")
+
 Le sang riche en nutriments arrive directement au foie pour le traitement.
 
 Le foie a un rôle essentiel, il filtre les substances nocives et les déchets et les transforment en davantage de bile. Ainsi qu’il détermine combien de nutriments iront au reste du corps et combien resteront en réserve. Par exemple, le foie stocke certaines vitamines et un type de sucre que votre corps utilise comme énergie.
 
 ## Gros intestin ou le côlon
+
+![Digestion des aliments gros intestin](/img/digestion-gros-intestin.png "Digestion des aliments gros intestin")
 
 Le gros intestin mesure entre 80 et 150 cm et constitue presque le dernier arrêt sur le tube digestif.
 
