@@ -9,7 +9,7 @@ description: >-
   glucides, les vitamines et les minéraux sont absorbés ?
 
   Nous allons vous expliquer. 
-readingTime: '6'
+readingTime: 6 minutes
 BlogImage:
   alt: Digestion
   img: /img/corps-humain-general.png
