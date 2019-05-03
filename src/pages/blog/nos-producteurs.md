@@ -63,7 +63,8 @@ C’est une coopérative d’agriculteurs spécialisée dans les produits locaux
 
 ## Pour les épices
 
-Chez Croq’biot, nous sommes 100% transparents.
- <br /> Il n’y a pas de production locale pour les épices. Nous nous approvisionnons donc à la Biocoop, où nous sommes convaincus de la qualité et du respect des produits.
+![](/img/epice_artisan-du-mondes.png)
 
-![](/img/biocoop-logo.jpg)
+Chez Croq’biot, nous sommes 100% transparents. Il n’y a pas de production locale pour les épices. <br /> Pour respecter nos engagements humains et environnementaux, nous fermentons avec les épices d'Artisans du Monde. 
+
+Artisans du Monde est un réseau associatif qui repose sur la mobilisation de plus de 6000 bénévoles et citoyens engagés dans la construction d’un modèle de commerce international plus juste et plus humain.
