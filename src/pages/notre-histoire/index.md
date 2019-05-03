@@ -120,9 +120,9 @@ stories:
       Oui, vous avez bien lu, "des aliments VIVANTS" ! 
 
 
-      Bien sûr, ils ne sautillent pas en criant "Mangez-moi, mangez-moi !", hein
-      ! <br /> Mais ils sont vivants grâce aux bonnes bactéries vivantes qui les
-      composent et qui sont évolutives.
+      Bien sûr, ils ne sautillent pas en criant "Mangez-moi, mangez-moi !",
+      hein! <br /> Mais ils sont vivants grâce aux bonnes bactéries vivantes qui
+      les composent et qui sont évolutives.
 
 
       Amoureuse et grande consommatrice de légumes de toutes sortes, j'ai décidé
