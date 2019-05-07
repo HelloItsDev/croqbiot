@@ -49,14 +49,14 @@ findashop:
     img: /img/shutterstock_346508717_bocaux_chou_rouge_lactofermente.jpg
   subheading: 'Où nous trouver ? '
 product:
-  description: .
+  description: >-
+    .Nos légumes lacto-fermentés sont des petites bombes de saveurs et de
+    probiotiques naturels ! <br /> Ils seront parfaits pour agrémenter vos
+    salades, sur des toasts grillés ou dans un sandwich.
   image:
     alt: légumes lacto fermentes
     img: /img/betterave-pomme-front.png
-  message: >-
-    Nos légumes lacto-fermentés sont des petites bombes de saveurs et de
-    probiotiques naturels ! <br /> Ils seront parfaits pour agrémenter vos
-    salades, sur des toasts grillés ou dans un sandwich.
+  message: Bientôt disponible en boutique. On vous tient au jus !
   status: BIENTOT DISPONIBLE
   subTitle: 250 G
   title: Légumes lacto-fermentés Croq'biot
