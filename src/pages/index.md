@@ -50,18 +50,18 @@ findashop:
   subheading: 'Où nous trouver ? '
 product:
   description: >-
-    Nos légumes lacto-fermentés Croq'biot sont croquants et savoureux. Ils seront
-    parfaits pour agrémenter vos salades, sur des toasts grillés ou dans un
-    sandwich.
+    Nos légumes lacto-fermentés Croq'biot sont croquants et savoureux. Ils
+    seront parfaits pour agrémenter vos salades, sur des toasts grillés ou dans
+    un sandwich.
   image:
-    alt: Recettes en prep
-    img: /img/bocalcroqbiot.png
+    alt: légumes lacto fermentes
+    img: /img/betterave-pomme-front.png
   message: |-
     Nos recettes sont en cours de préparation.
 
     Nous vous informerons lorsqu'elles seront diponibles.
   status: BIENTOT DISPONIBLE
-  subTitle: '- G'
+  subTitle: 250 G
   title: Légumes lacto-fermentés Croq'biot
 banner:
   image:
