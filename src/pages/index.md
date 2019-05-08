@@ -50,7 +50,7 @@ findashop:
   subheading: 'Où nous trouver ? '
 product:
   description: >-
-    .Nos légumes lacto-fermentés sont des petites bombes de saveurs et de
+    Nos légumes lacto-fermentés sont des petites bombes de saveurs et de
     probiotiques naturels ! <br /> Ils seront parfaits pour agrémenter vos
     salades, sur des toasts grillés ou dans un sandwich.
   image:
