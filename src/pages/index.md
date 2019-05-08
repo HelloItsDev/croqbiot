@@ -55,7 +55,7 @@ product:
     salades, sur des toasts grillés ou dans un sandwich.
   image:
     alt: légumes lacto fermentes
-    img: /img/betterave-pomme-front.png
+    img: /img/carotte-gimgembre-curcuma.png
   message: Bientôt disponible en boutique. On vous tient au jus !
   status: BIENTOT DISPONIBLE
   subTitle: 250 G
