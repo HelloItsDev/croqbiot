@@ -15,7 +15,7 @@ const Product = (props) => (
 				</div>
 
 				<div className="col fluid md-6 lg-5">
-					<h1 style={{ marginTop: 0 }}> {props.title} </h1>
+					<h1 style={{ marginTop: 0, fontSize: '45px' }}> {props.title} </h1>
 					<h3 className="color-salmon1">{props.subTitle} </h3>
 
 					{props.soldout && (
