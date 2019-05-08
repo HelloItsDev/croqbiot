@@ -46,7 +46,7 @@ findashop:
   heading: Nos légumes lacto-fermentés Croq'biot
   image:
     alt: Choux rouge Croq'biot
-    img: /img/shutterstock_346508717_bocaux_chou_rouge_lactofermente.jpg
+    img: /img/aliments-fermentés.jpg
   subheading: 'Où nous trouver ? '
 product:
   description: >-
